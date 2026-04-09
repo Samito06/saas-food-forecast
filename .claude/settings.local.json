@@ -1,0 +1,16 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(venv/Scripts/python:*)",
+      "Bash(venv/Scripts/jupyter nbconvert:*)",
+      "Bash(venv/Scripts/streamlit run:*)",
+      "Bash(curl -s -o /dev/null -w \"%{http_code}\" http://localhost:8501/)",
+      "Bash(pkill -f \"streamlit run\")",
+      "Bash(netstat -ano)",
+      "Bash(taskkill:*)",
+      "Bash(cmd /c \"taskkill /PID 3576 /F\")",
+      "Bash(curl -s -o /dev/null -w \"%{http_code}\" http://localhost:8502/)",
+      "Bash(cmd /c \"taskkill /PID 3576 /F & taskkill /PID 1544 /F\")"
+    ]
+  }
+}

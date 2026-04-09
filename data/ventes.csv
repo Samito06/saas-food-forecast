@@ -1,0 +1,2925 @@
+date,produit,quantite_vendue
+2023-01-01,Pizza Margherita,23
+2023-01-01,Chicken Sandwich,21
+2023-01-01,Burger,19
+2023-01-01,Caesar Salad,17
+2023-01-02,Pizza Margherita,28
+2023-01-02,Chicken Sandwich,28
+2023-01-02,Burger,16
+2023-01-02,Caesar Salad,19
+2023-01-03,Pizza Margherita,0
+2023-01-03,Chicken Sandwich,0
+2023-01-03,Burger,0
+2023-01-03,Caesar Salad,0
+2023-01-04,Pizza Margherita,33
+2023-01-04,Chicken Sandwich,24
+2023-01-04,Burger,14
+2023-01-04,Caesar Salad,17
+2023-01-05,Pizza Margherita,31
+2023-01-05,Chicken Sandwich,27
+2023-01-05,Burger,21
+2023-01-05,Caesar Salad,11
+2023-01-06,Pizza Margherita,50
+2023-01-06,Chicken Sandwich,23
+2023-01-06,Burger,25
+2023-01-06,Caesar Salad,22
+2023-01-07,Pizza Margherita,45
+2023-01-07,Chicken Sandwich,41
+2023-01-07,Burger,32
+2023-01-07,Caesar Salad,16
+2023-01-08,Pizza Margherita,23
+2023-01-08,Chicken Sandwich,24
+2023-01-08,Burger,17
+2023-01-08,Caesar Salad,13
+2023-01-09,Pizza Margherita,39
+2023-01-09,Chicken Sandwich,29
+2023-01-09,Burger,19
+2023-01-09,Caesar Salad,14
+2023-01-10,Pizza Margherita,27
+2023-01-10,Chicken Sandwich,20
+2023-01-10,Burger,24
+2023-01-10,Caesar Salad,14
+2023-01-11,Pizza Margherita,31
+2023-01-11,Chicken Sandwich,17
+2023-01-11,Burger,18
+2023-01-11,Caesar Salad,9
+2023-01-12,Pizza Margherita,31
+2023-01-12,Chicken Sandwich,26
+2023-01-12,Burger,31
+2023-01-12,Caesar Salad,19
+2023-01-13,Pizza Margherita,42
+2023-01-13,Chicken Sandwich,47
+2023-01-13,Burger,28
+2023-01-13,Caesar Salad,19
+2023-01-14,Pizza Margherita,41
+2023-01-14,Chicken Sandwich,27
+2023-01-14,Burger,20
+2023-01-14,Caesar Salad,18
+2023-01-15,Pizza Margherita,34
+2023-01-15,Chicken Sandwich,18
+2023-01-15,Burger,16
+2023-01-15,Caesar Salad,16
+2023-01-16,Pizza Margherita,27
+2023-01-16,Chicken Sandwich,22
+2023-01-16,Burger,15
+2023-01-16,Caesar Salad,15
+2023-01-17,Pizza Margherita,35
+2023-01-17,Chicken Sandwich,23
+2023-01-17,Burger,23
+2023-01-17,Caesar Salad,22
+2023-01-18,Pizza Margherita,23
+2023-01-18,Chicken Sandwich,26
+2023-01-18,Burger,15
+2023-01-18,Caesar Salad,15
+2023-01-19,Pizza Margherita,23
+2023-01-19,Chicken Sandwich,18
+2023-01-19,Burger,23
+2023-01-19,Caesar Salad,11
+2023-01-20,Pizza Margherita,46
+2023-01-20,Chicken Sandwich,27
+2023-01-20,Burger,38
+2023-01-20,Caesar Salad,18
+2023-01-21,Pizza Margherita,38
+2023-01-21,Chicken Sandwich,37
+2023-01-21,Burger,21
+2023-01-21,Caesar Salad,20
+2023-01-22,Pizza Margherita,25
+2023-01-22,Chicken Sandwich,27
+2023-01-22,Burger,21
+2023-01-22,Caesar Salad,13
+2023-01-23,Pizza Margherita,32
+2023-01-23,Chicken Sandwich,24
+2023-01-23,Burger,16
+2023-01-23,Caesar Salad,19
+2023-01-24,Pizza Margherita,0
+2023-01-24,Chicken Sandwich,0
+2023-01-24,Burger,0
+2023-01-24,Caesar Salad,0
+2023-01-25,Pizza Margherita,20
+2023-01-25,Chicken Sandwich,19
+2023-01-25,Burger,17
+2023-01-25,Caesar Salad,22
+2023-01-26,Pizza Margherita,26
+2023-01-26,Chicken Sandwich,18
+2023-01-26,Burger,11
+2023-01-26,Caesar Salad,7
+2023-01-27,Pizza Margherita,45
+2023-01-27,Chicken Sandwich,32
+2023-01-27,Burger,15
+2023-01-27,Caesar Salad,17
+2023-01-28,Pizza Margherita,43
+2023-01-28,Chicken Sandwich,22
+2023-01-28,Burger,28
+2023-01-28,Caesar Salad,26
+2023-01-29,Pizza Margherita,40
+2023-01-29,Chicken Sandwich,29
+2023-01-29,Burger,24
+2023-01-29,Caesar Salad,15
+2023-01-30,Pizza Margherita,37
+2023-01-30,Chicken Sandwich,23
+2023-01-30,Burger,17
+2023-01-30,Caesar Salad,15
+2023-01-31,Pizza Margherita,25
+2023-01-31,Chicken Sandwich,23
+2023-01-31,Burger,18
+2023-01-31,Caesar Salad,21
+2023-02-01,Pizza Margherita,27
+2023-02-01,Chicken Sandwich,31
+2023-02-01,Burger,24
+2023-02-01,Caesar Salad,17
+2023-02-02,Pizza Margherita,34
+2023-02-02,Chicken Sandwich,18
+2023-02-02,Burger,13
+2023-02-02,Caesar Salad,19
+2023-02-03,Pizza Margherita,48
+2023-02-03,Chicken Sandwich,48
+2023-02-03,Burger,29
+2023-02-03,Caesar Salad,23
+2023-02-04,Pizza Margherita,43
+2023-02-04,Chicken Sandwich,34
+2023-02-04,Burger,32
+2023-02-04,Caesar Salad,21
+2023-02-05,Pizza Margherita,40
+2023-02-05,Chicken Sandwich,18
+2023-02-05,Burger,22
+2023-02-05,Caesar Salad,18
+2023-02-06,Pizza Margherita,27
+2023-02-06,Chicken Sandwich,29
+2023-02-06,Burger,18
+2023-02-06,Caesar Salad,10
+2023-02-07,Pizza Margherita,41
+2023-02-07,Chicken Sandwich,23
+2023-02-07,Burger,24
+2023-02-07,Caesar Salad,10
+2023-02-08,Pizza Margherita,32
+2023-02-08,Chicken Sandwich,26
+2023-02-08,Burger,25
+2023-02-08,Caesar Salad,14
+2023-02-09,Pizza Margherita,27
+2023-02-09,Chicken Sandwich,29
+2023-02-09,Burger,17
+2023-02-09,Caesar Salad,17
+2023-02-10,Pizza Margherita,34
+2023-02-10,Chicken Sandwich,38
+2023-02-10,Burger,30
+2023-02-10,Caesar Salad,17
+2023-02-11,Pizza Margherita,29
+2023-02-11,Chicken Sandwich,46
+2023-02-11,Burger,31
+2023-02-11,Caesar Salad,9
+2023-02-12,Pizza Margherita,0
+2023-02-12,Chicken Sandwich,0
+2023-02-12,Burger,0
+2023-02-12,Caesar Salad,0
+2023-02-13,Pizza Margherita,0
+2023-02-13,Chicken Sandwich,0
+2023-02-13,Burger,0
+2023-02-13,Caesar Salad,0
+2023-02-14,Pizza Margherita,23
+2023-02-14,Chicken Sandwich,29
+2023-02-14,Burger,25
+2023-02-14,Caesar Salad,18
+2023-02-15,Pizza Margherita,26
+2023-02-15,Chicken Sandwich,28
+2023-02-15,Burger,13
+2023-02-15,Caesar Salad,19
+2023-02-16,Pizza Margherita,31
+2023-02-16,Chicken Sandwich,36
+2023-02-16,Burger,21
+2023-02-16,Caesar Salad,10
+2023-02-17,Pizza Margherita,40
+2023-02-17,Chicken Sandwich,27
+2023-02-17,Burger,24
+2023-02-17,Caesar Salad,20
+2023-02-18,Pizza Margherita,45
+2023-02-18,Chicken Sandwich,33
+2023-02-18,Burger,29
+2023-02-18,Caesar Salad,21
+2023-02-19,Pizza Margherita,31
+2023-02-19,Chicken Sandwich,28
+2023-02-19,Burger,22
+2023-02-19,Caesar Salad,19
+2023-02-20,Pizza Margherita,29
+2023-02-20,Chicken Sandwich,23
+2023-02-20,Burger,28
+2023-02-20,Caesar Salad,15
+2023-02-21,Pizza Margherita,27
+2023-02-21,Chicken Sandwich,25
+2023-02-21,Burger,11
+2023-02-21,Caesar Salad,13
+2023-02-22,Pizza Margherita,27
+2023-02-22,Chicken Sandwich,31
+2023-02-22,Burger,15
+2023-02-22,Caesar Salad,10
+2023-02-23,Pizza Margherita,35
+2023-02-23,Chicken Sandwich,28
+2023-02-23,Burger,18
+2023-02-23,Caesar Salad,15
+2023-02-24,Pizza Margherita,35
+2023-02-24,Chicken Sandwich,28
+2023-02-24,Burger,26
+2023-02-24,Caesar Salad,25
+2023-02-25,Pizza Margherita,41
+2023-02-25,Chicken Sandwich,29
+2023-02-25,Burger,15
+2023-02-25,Caesar Salad,18
+2023-02-26,Pizza Margherita,31
+2023-02-26,Chicken Sandwich,17
+2023-02-26,Burger,25
+2023-02-26,Caesar Salad,17
+2023-02-27,Pizza Margherita,35
+2023-02-27,Chicken Sandwich,23
+2023-02-27,Burger,18
+2023-02-27,Caesar Salad,15
+2023-02-28,Pizza Margherita,37
+2023-02-28,Chicken Sandwich,33
+2023-02-28,Burger,25
+2023-02-28,Caesar Salad,15
+2023-03-01,Pizza Margherita,22
+2023-03-01,Chicken Sandwich,33
+2023-03-01,Burger,15
+2023-03-01,Caesar Salad,11
+2023-03-02,Pizza Margherita,40
+2023-03-02,Chicken Sandwich,22
+2023-03-02,Burger,23
+2023-03-02,Caesar Salad,15
+2023-03-03,Pizza Margherita,0
+2023-03-03,Chicken Sandwich,0
+2023-03-03,Burger,0
+2023-03-03,Caesar Salad,0
+2023-03-04,Pizza Margherita,52
+2023-03-04,Chicken Sandwich,43
+2023-03-04,Burger,32
+2023-03-04,Caesar Salad,22
+2023-03-05,Pizza Margherita,26
+2023-03-05,Chicken Sandwich,29
+2023-03-05,Burger,14
+2023-03-05,Caesar Salad,18
+2023-03-06,Pizza Margherita,35
+2023-03-06,Chicken Sandwich,26
+2023-03-06,Burger,10
+2023-03-06,Caesar Salad,17
+2023-03-07,Pizza Margherita,34
+2023-03-07,Chicken Sandwich,14
+2023-03-07,Burger,22
+2023-03-07,Caesar Salad,14
+2023-03-08,Pizza Margherita,33
+2023-03-08,Chicken Sandwich,31
+2023-03-08,Burger,25
+2023-03-08,Caesar Salad,16
+2023-03-09,Pizza Margherita,26
+2023-03-09,Chicken Sandwich,20
+2023-03-09,Burger,18
+2023-03-09,Caesar Salad,12
+2023-03-10,Pizza Margherita,34
+2023-03-10,Chicken Sandwich,37
+2023-03-10,Burger,37
+2023-03-10,Caesar Salad,15
+2023-03-11,Pizza Margherita,30
+2023-03-11,Chicken Sandwich,37
+2023-03-11,Burger,27
+2023-03-11,Caesar Salad,25
+2023-03-12,Pizza Margherita,25
+2023-03-12,Chicken Sandwich,33
+2023-03-12,Burger,23
+2023-03-12,Caesar Salad,17
+2023-03-13,Pizza Margherita,25
+2023-03-13,Chicken Sandwich,22
+2023-03-13,Burger,24
+2023-03-13,Caesar Salad,14
+2023-03-14,Pizza Margherita,35
+2023-03-14,Chicken Sandwich,26
+2023-03-14,Burger,20
+2023-03-14,Caesar Salad,9
+2023-03-15,Pizza Margherita,26
+2023-03-15,Chicken Sandwich,24
+2023-03-15,Burger,17
+2023-03-15,Caesar Salad,9
+2023-03-16,Pizza Margherita,19
+2023-03-16,Chicken Sandwich,20
+2023-03-16,Burger,19
+2023-03-16,Caesar Salad,20
+2023-03-17,Pizza Margherita,42
+2023-03-17,Chicken Sandwich,32
+2023-03-17,Burger,24
+2023-03-17,Caesar Salad,17
+2023-03-18,Pizza Margherita,46
+2023-03-18,Chicken Sandwich,32
+2023-03-18,Burger,16
+2023-03-18,Caesar Salad,24
+2023-03-19,Pizza Margherita,17
+2023-03-19,Chicken Sandwich,33
+2023-03-19,Burger,15
+2023-03-19,Caesar Salad,9
+2023-03-20,Pizza Margherita,25
+2023-03-20,Chicken Sandwich,26
+2023-03-20,Burger,22
+2023-03-20,Caesar Salad,14
+2023-03-21,Pizza Margherita,36
+2023-03-21,Chicken Sandwich,30
+2023-03-21,Burger,16
+2023-03-21,Caesar Salad,13
+2023-03-22,Pizza Margherita,0
+2023-03-22,Chicken Sandwich,0
+2023-03-22,Burger,0
+2023-03-22,Caesar Salad,0
+2023-03-23,Pizza Margherita,34
+2023-03-23,Chicken Sandwich,29
+2023-03-23,Burger,26
+2023-03-23,Caesar Salad,10
+2023-03-24,Pizza Margherita,46
+2023-03-24,Chicken Sandwich,43
+2023-03-24,Burger,30
+2023-03-24,Caesar Salad,18
+2023-03-25,Pizza Margherita,49
+2023-03-25,Chicken Sandwich,37
+2023-03-25,Burger,35
+2023-03-25,Caesar Salad,22
+2023-03-26,Pizza Margherita,28
+2023-03-26,Chicken Sandwich,28
+2023-03-26,Burger,19
+2023-03-26,Caesar Salad,15
+2023-03-27,Pizza Margherita,28
+2023-03-27,Chicken Sandwich,20
+2023-03-27,Burger,16
+2023-03-27,Caesar Salad,13
+2023-03-28,Pizza Margherita,34
+2023-03-28,Chicken Sandwich,29
+2023-03-28,Burger,13
+2023-03-28,Caesar Salad,18
+2023-03-29,Pizza Margherita,28
+2023-03-29,Chicken Sandwich,27
+2023-03-29,Burger,19
+2023-03-29,Caesar Salad,22
+2023-03-30,Pizza Margherita,24
+2023-03-30,Chicken Sandwich,23
+2023-03-30,Burger,15
+2023-03-30,Caesar Salad,12
+2023-03-31,Pizza Margherita,37
+2023-03-31,Chicken Sandwich,29
+2023-03-31,Burger,27
+2023-03-31,Caesar Salad,32
+2023-04-01,Pizza Margherita,42
+2023-04-01,Chicken Sandwich,30
+2023-04-01,Burger,18
+2023-04-01,Caesar Salad,18
+2023-04-02,Pizza Margherita,32
+2023-04-02,Chicken Sandwich,19
+2023-04-02,Burger,15
+2023-04-02,Caesar Salad,16
+2023-04-03,Pizza Margherita,0
+2023-04-03,Chicken Sandwich,0
+2023-04-03,Burger,0
+2023-04-03,Caesar Salad,0
+2023-04-04,Pizza Margherita,26
+2023-04-04,Chicken Sandwich,24
+2023-04-04,Burger,24
+2023-04-04,Caesar Salad,23
+2023-04-05,Pizza Margherita,38
+2023-04-05,Chicken Sandwich,21
+2023-04-05,Burger,15
+2023-04-05,Caesar Salad,14
+2023-04-06,Pizza Margherita,33
+2023-04-06,Chicken Sandwich,32
+2023-04-06,Burger,20
+2023-04-06,Caesar Salad,12
+2023-04-07,Pizza Margherita,48
+2023-04-07,Chicken Sandwich,35
+2023-04-07,Burger,29
+2023-04-07,Caesar Salad,15
+2023-04-08,Pizza Margherita,57
+2023-04-08,Chicken Sandwich,49
+2023-04-08,Burger,29
+2023-04-08,Caesar Salad,17
+2023-04-09,Pizza Margherita,27
+2023-04-09,Chicken Sandwich,24
+2023-04-09,Burger,20
+2023-04-09,Caesar Salad,18
+2023-04-10,Pizza Margherita,27
+2023-04-10,Chicken Sandwich,23
+2023-04-10,Burger,22
+2023-04-10,Caesar Salad,19
+2023-04-11,Pizza Margherita,40
+2023-04-11,Chicken Sandwich,27
+2023-04-11,Burger,11
+2023-04-11,Caesar Salad,10
+2023-04-12,Pizza Margherita,32
+2023-04-12,Chicken Sandwich,34
+2023-04-12,Burger,23
+2023-04-12,Caesar Salad,17
+2023-04-13,Pizza Margherita,29
+2023-04-13,Chicken Sandwich,23
+2023-04-13,Burger,22
+2023-04-13,Caesar Salad,17
+2023-04-14,Pizza Margherita,56
+2023-04-14,Chicken Sandwich,39
+2023-04-14,Burger,29
+2023-04-14,Caesar Salad,21
+2023-04-15,Pizza Margherita,40
+2023-04-15,Chicken Sandwich,32
+2023-04-15,Burger,27
+2023-04-15,Caesar Salad,14
+2023-04-16,Pizza Margherita,0
+2023-04-16,Chicken Sandwich,0
+2023-04-16,Burger,0
+2023-04-16,Caesar Salad,0
+2023-04-17,Pizza Margherita,33
+2023-04-17,Chicken Sandwich,20
+2023-04-17,Burger,26
+2023-04-17,Caesar Salad,17
+2023-04-18,Pizza Margherita,26
+2023-04-18,Chicken Sandwich,22
+2023-04-18,Burger,27
+2023-04-18,Caesar Salad,15
+2023-04-19,Pizza Margherita,43
+2023-04-19,Chicken Sandwich,21
+2023-04-19,Burger,19
+2023-04-19,Caesar Salad,20
+2023-04-20,Pizza Margherita,29
+2023-04-20,Chicken Sandwich,31
+2023-04-20,Burger,21
+2023-04-20,Caesar Salad,16
+2023-04-21,Pizza Margherita,37
+2023-04-21,Chicken Sandwich,45
+2023-04-21,Burger,32
+2023-04-21,Caesar Salad,21
+2023-04-22,Pizza Margherita,37
+2023-04-22,Chicken Sandwich,31
+2023-04-22,Burger,29
+2023-04-22,Caesar Salad,17
+2023-04-23,Pizza Margherita,37
+2023-04-23,Chicken Sandwich,19
+2023-04-23,Burger,14
+2023-04-23,Caesar Salad,10
+2023-04-24,Pizza Margherita,23
+2023-04-24,Chicken Sandwich,27
+2023-04-24,Burger,25
+2023-04-24,Caesar Salad,14
+2023-04-25,Pizza Margherita,30
+2023-04-25,Chicken Sandwich,17
+2023-04-25,Burger,19
+2023-04-25,Caesar Salad,13
+2023-04-26,Pizza Margherita,29
+2023-04-26,Chicken Sandwich,25
+2023-04-26,Burger,13
+2023-04-26,Caesar Salad,15
+2023-04-27,Pizza Margherita,18
+2023-04-27,Chicken Sandwich,24
+2023-04-27,Burger,25
+2023-04-27,Caesar Salad,19
+2023-04-28,Pizza Margherita,49
+2023-04-28,Chicken Sandwich,33
+2023-04-28,Burger,24
+2023-04-28,Caesar Salad,21
+2023-04-29,Pizza Margherita,41
+2023-04-29,Chicken Sandwich,30
+2023-04-29,Burger,32
+2023-04-29,Caesar Salad,13
+2023-04-30,Pizza Margherita,24
+2023-04-30,Chicken Sandwich,19
+2023-04-30,Burger,19
+2023-04-30,Caesar Salad,20
+2023-05-01,Pizza Margherita,25
+2023-05-01,Chicken Sandwich,22
+2023-05-01,Burger,21
+2023-05-01,Caesar Salad,19
+2023-05-02,Pizza Margherita,32
+2023-05-02,Chicken Sandwich,21
+2023-05-02,Burger,21
+2023-05-02,Caesar Salad,12
+2023-05-03,Pizza Margherita,27
+2023-05-03,Chicken Sandwich,28
+2023-05-03,Burger,27
+2023-05-03,Caesar Salad,11
+2023-05-04,Pizza Margherita,29
+2023-05-04,Chicken Sandwich,35
+2023-05-04,Burger,16
+2023-05-04,Caesar Salad,11
+2023-05-05,Pizza Margherita,36
+2023-05-05,Chicken Sandwich,29
+2023-05-05,Burger,22
+2023-05-05,Caesar Salad,27
+2023-05-06,Pizza Margherita,39
+2023-05-06,Chicken Sandwich,32
+2023-05-06,Burger,30
+2023-05-06,Caesar Salad,14
+2023-05-07,Pizza Margherita,22
+2023-05-07,Chicken Sandwich,13
+2023-05-07,Burger,18
+2023-05-07,Caesar Salad,16
+2023-05-08,Pizza Margherita,30
+2023-05-08,Chicken Sandwich,40
+2023-05-08,Burger,19
+2023-05-08,Caesar Salad,10
+2023-05-09,Pizza Margherita,24
+2023-05-09,Chicken Sandwich,31
+2023-05-09,Burger,18
+2023-05-09,Caesar Salad,14
+2023-05-10,Pizza Margherita,28
+2023-05-10,Chicken Sandwich,24
+2023-05-10,Burger,19
+2023-05-10,Caesar Salad,16
+2023-05-11,Pizza Margherita,27
+2023-05-11,Chicken Sandwich,17
+2023-05-11,Burger,23
+2023-05-11,Caesar Salad,11
+2023-05-12,Pizza Margherita,47
+2023-05-12,Chicken Sandwich,37
+2023-05-12,Burger,26
+2023-05-12,Caesar Salad,22
+2023-05-13,Pizza Margherita,43
+2023-05-13,Chicken Sandwich,39
+2023-05-13,Burger,28
+2023-05-13,Caesar Salad,19
+2023-05-14,Pizza Margherita,28
+2023-05-14,Chicken Sandwich,21
+2023-05-14,Burger,24
+2023-05-14,Caesar Salad,11
+2023-05-15,Pizza Margherita,37
+2023-05-15,Chicken Sandwich,25
+2023-05-15,Burger,19
+2023-05-15,Caesar Salad,14
+2023-05-16,Pizza Margherita,26
+2023-05-16,Chicken Sandwich,32
+2023-05-16,Burger,20
+2023-05-16,Caesar Salad,17
+2023-05-17,Pizza Margherita,33
+2023-05-17,Chicken Sandwich,27
+2023-05-17,Burger,19
+2023-05-17,Caesar Salad,11
+2023-05-18,Pizza Margherita,24
+2023-05-18,Chicken Sandwich,24
+2023-05-18,Burger,35
+2023-05-18,Caesar Salad,17
+2023-05-19,Pizza Margherita,41
+2023-05-19,Chicken Sandwich,50
+2023-05-19,Burger,31
+2023-05-19,Caesar Salad,28
+2023-05-20,Pizza Margherita,33
+2023-05-20,Chicken Sandwich,42
+2023-05-20,Burger,28
+2023-05-20,Caesar Salad,22
+2023-05-21,Pizza Margherita,29
+2023-05-21,Chicken Sandwich,40
+2023-05-21,Burger,15
+2023-05-21,Caesar Salad,25
+2023-05-22,Pizza Margherita,37
+2023-05-22,Chicken Sandwich,26
+2023-05-22,Burger,23
+2023-05-22,Caesar Salad,14
+2023-05-23,Pizza Margherita,0
+2023-05-23,Chicken Sandwich,0
+2023-05-23,Burger,0
+2023-05-23,Caesar Salad,0
+2023-05-24,Pizza Margherita,0
+2023-05-24,Chicken Sandwich,0
+2023-05-24,Burger,0
+2023-05-24,Caesar Salad,0
+2023-05-25,Pizza Margherita,28
+2023-05-25,Chicken Sandwich,17
+2023-05-25,Burger,24
+2023-05-25,Caesar Salad,22
+2023-05-26,Pizza Margherita,24
+2023-05-26,Chicken Sandwich,30
+2023-05-26,Burger,23
+2023-05-26,Caesar Salad,15
+2023-05-27,Pizza Margherita,35
+2023-05-27,Chicken Sandwich,45
+2023-05-27,Burger,30
+2023-05-27,Caesar Salad,25
+2023-05-28,Pizza Margherita,27
+2023-05-28,Chicken Sandwich,21
+2023-05-28,Burger,29
+2023-05-28,Caesar Salad,18
+2023-05-29,Pizza Margherita,24
+2023-05-29,Chicken Sandwich,27
+2023-05-29,Burger,19
+2023-05-29,Caesar Salad,18
+2023-05-30,Pizza Margherita,41
+2023-05-30,Chicken Sandwich,18
+2023-05-30,Burger,20
+2023-05-30,Caesar Salad,15
+2023-05-31,Pizza Margherita,29
+2023-05-31,Chicken Sandwich,26
+2023-05-31,Burger,22
+2023-05-31,Caesar Salad,21
+2023-06-01,Pizza Margherita,32
+2023-06-01,Chicken Sandwich,24
+2023-06-01,Burger,26
+2023-06-01,Caesar Salad,13
+2023-06-02,Pizza Margherita,39
+2023-06-02,Chicken Sandwich,41
+2023-06-02,Burger,32
+2023-06-02,Caesar Salad,17
+2023-06-03,Pizza Margherita,33
+2023-06-03,Chicken Sandwich,37
+2023-06-03,Burger,36
+2023-06-03,Caesar Salad,15
+2023-06-04,Pizza Margherita,26
+2023-06-04,Chicken Sandwich,32
+2023-06-04,Burger,23
+2023-06-04,Caesar Salad,13
+2023-06-05,Pizza Margherita,23
+2023-06-05,Chicken Sandwich,22
+2023-06-05,Burger,21
+2023-06-05,Caesar Salad,8
+2023-06-06,Pizza Margherita,35
+2023-06-06,Chicken Sandwich,30
+2023-06-06,Burger,25
+2023-06-06,Caesar Salad,13
+2023-06-07,Pizza Margherita,29
+2023-06-07,Chicken Sandwich,21
+2023-06-07,Burger,17
+2023-06-07,Caesar Salad,10
+2023-06-08,Pizza Margherita,27
+2023-06-08,Chicken Sandwich,21
+2023-06-08,Burger,28
+2023-06-08,Caesar Salad,19
+2023-06-09,Pizza Margherita,31
+2023-06-09,Chicken Sandwich,35
+2023-06-09,Burger,26
+2023-06-09,Caesar Salad,22
+2023-06-10,Pizza Margherita,32
+2023-06-10,Chicken Sandwich,44
+2023-06-10,Burger,26
+2023-06-10,Caesar Salad,19
+2023-06-11,Pizza Margherita,26
+2023-06-11,Chicken Sandwich,20
+2023-06-11,Burger,30
+2023-06-11,Caesar Salad,19
+2023-06-12,Pizza Margherita,24
+2023-06-12,Chicken Sandwich,30
+2023-06-12,Burger,27
+2023-06-12,Caesar Salad,17
+2023-06-13,Pizza Margherita,25
+2023-06-13,Chicken Sandwich,39
+2023-06-13,Burger,19
+2023-06-13,Caesar Salad,12
+2023-06-14,Pizza Margherita,35
+2023-06-14,Chicken Sandwich,31
+2023-06-14,Burger,16
+2023-06-14,Caesar Salad,19
+2023-06-15,Pizza Margherita,28
+2023-06-15,Chicken Sandwich,23
+2023-06-15,Burger,15
+2023-06-15,Caesar Salad,15
+2023-06-16,Pizza Margherita,0
+2023-06-16,Chicken Sandwich,0
+2023-06-16,Burger,0
+2023-06-16,Caesar Salad,0
+2023-06-17,Pizza Margherita,45
+2023-06-17,Chicken Sandwich,33
+2023-06-17,Burger,24
+2023-06-17,Caesar Salad,25
+2023-06-18,Pizza Margherita,29
+2023-06-18,Chicken Sandwich,20
+2023-06-18,Burger,17
+2023-06-18,Caesar Salad,21
+2023-06-19,Pizza Margherita,26
+2023-06-19,Chicken Sandwich,21
+2023-06-19,Burger,29
+2023-06-19,Caesar Salad,14
+2023-06-20,Pizza Margherita,24
+2023-06-20,Chicken Sandwich,29
+2023-06-20,Burger,25
+2023-06-20,Caesar Salad,13
+2023-06-21,Pizza Margherita,34
+2023-06-21,Chicken Sandwich,28
+2023-06-21,Burger,26
+2023-06-21,Caesar Salad,18
+2023-06-22,Pizza Margherita,22
+2023-06-22,Chicken Sandwich,25
+2023-06-22,Burger,21
+2023-06-22,Caesar Salad,12
+2023-06-23,Pizza Margherita,0
+2023-06-23,Chicken Sandwich,0
+2023-06-23,Burger,0
+2023-06-23,Caesar Salad,0
+2023-06-24,Pizza Margherita,45
+2023-06-24,Chicken Sandwich,29
+2023-06-24,Burger,41
+2023-06-24,Caesar Salad,19
+2023-06-25,Pizza Margherita,21
+2023-06-25,Chicken Sandwich,32
+2023-06-25,Burger,24
+2023-06-25,Caesar Salad,13
+2023-06-26,Pizza Margherita,27
+2023-06-26,Chicken Sandwich,27
+2023-06-26,Burger,23
+2023-06-26,Caesar Salad,15
+2023-06-27,Pizza Margherita,27
+2023-06-27,Chicken Sandwich,35
+2023-06-27,Burger,23
+2023-06-27,Caesar Salad,20
+2023-06-28,Pizza Margherita,30
+2023-06-28,Chicken Sandwich,21
+2023-06-28,Burger,23
+2023-06-28,Caesar Salad,18
+2023-06-29,Pizza Margherita,30
+2023-06-29,Chicken Sandwich,27
+2023-06-29,Burger,26
+2023-06-29,Caesar Salad,13
+2023-06-30,Pizza Margherita,39
+2023-06-30,Chicken Sandwich,29
+2023-06-30,Burger,21
+2023-06-30,Caesar Salad,15
+2023-07-01,Pizza Margherita,52
+2023-07-01,Chicken Sandwich,44
+2023-07-01,Burger,36
+2023-07-01,Caesar Salad,28
+2023-07-02,Pizza Margherita,33
+2023-07-02,Chicken Sandwich,24
+2023-07-02,Burger,20
+2023-07-02,Caesar Salad,16
+2023-07-03,Pizza Margherita,43
+2023-07-03,Chicken Sandwich,35
+2023-07-03,Burger,19
+2023-07-03,Caesar Salad,25
+2023-07-04,Pizza Margherita,37
+2023-07-04,Chicken Sandwich,31
+2023-07-04,Burger,26
+2023-07-04,Caesar Salad,12
+2023-07-05,Pizza Margherita,39
+2023-07-05,Chicken Sandwich,20
+2023-07-05,Burger,23
+2023-07-05,Caesar Salad,14
+2023-07-06,Pizza Margherita,40
+2023-07-06,Chicken Sandwich,36
+2023-07-06,Burger,28
+2023-07-06,Caesar Salad,18
+2023-07-07,Pizza Margherita,63
+2023-07-07,Chicken Sandwich,42
+2023-07-07,Burger,38
+2023-07-07,Caesar Salad,25
+2023-07-08,Pizza Margherita,63
+2023-07-08,Chicken Sandwich,41
+2023-07-08,Burger,33
+2023-07-08,Caesar Salad,21
+2023-07-09,Pizza Margherita,41
+2023-07-09,Chicken Sandwich,24
+2023-07-09,Burger,21
+2023-07-09,Caesar Salad,17
+2023-07-10,Pizza Margherita,31
+2023-07-10,Chicken Sandwich,30
+2023-07-10,Burger,20
+2023-07-10,Caesar Salad,15
+2023-07-11,Pizza Margherita,38
+2023-07-11,Chicken Sandwich,40
+2023-07-11,Burger,24
+2023-07-11,Caesar Salad,15
+2023-07-12,Pizza Margherita,45
+2023-07-12,Chicken Sandwich,26
+2023-07-12,Burger,25
+2023-07-12,Caesar Salad,18
+2023-07-13,Pizza Margherita,34
+2023-07-13,Chicken Sandwich,27
+2023-07-13,Burger,17
+2023-07-13,Caesar Salad,23
+2023-07-14,Pizza Margherita,0
+2023-07-14,Chicken Sandwich,0
+2023-07-14,Burger,0
+2023-07-14,Caesar Salad,0
+2023-07-15,Pizza Margherita,44
+2023-07-15,Chicken Sandwich,43
+2023-07-15,Burger,30
+2023-07-15,Caesar Salad,28
+2023-07-16,Pizza Margherita,24
+2023-07-16,Chicken Sandwich,31
+2023-07-16,Burger,30
+2023-07-16,Caesar Salad,19
+2023-07-17,Pizza Margherita,35
+2023-07-17,Chicken Sandwich,38
+2023-07-17,Burger,18
+2023-07-17,Caesar Salad,20
+2023-07-18,Pizza Margherita,36
+2023-07-18,Chicken Sandwich,30
+2023-07-18,Burger,20
+2023-07-18,Caesar Salad,16
+2023-07-19,Pizza Margherita,39
+2023-07-19,Chicken Sandwich,34
+2023-07-19,Burger,24
+2023-07-19,Caesar Salad,14
+2023-07-20,Pizza Margherita,31
+2023-07-20,Chicken Sandwich,29
+2023-07-20,Burger,35
+2023-07-20,Caesar Salad,19
+2023-07-21,Pizza Margherita,59
+2023-07-21,Chicken Sandwich,44
+2023-07-21,Burger,35
+2023-07-21,Caesar Salad,29
+2023-07-22,Pizza Margherita,55
+2023-07-22,Chicken Sandwich,41
+2023-07-22,Burger,38
+2023-07-22,Caesar Salad,20
+2023-07-23,Pizza Margherita,35
+2023-07-23,Chicken Sandwich,34
+2023-07-23,Burger,30
+2023-07-23,Caesar Salad,23
+2023-07-24,Pizza Margherita,38
+2023-07-24,Chicken Sandwich,26
+2023-07-24,Burger,16
+2023-07-24,Caesar Salad,16
+2023-07-25,Pizza Margherita,35
+2023-07-25,Chicken Sandwich,26
+2023-07-25,Burger,30
+2023-07-25,Caesar Salad,23
+2023-07-26,Pizza Margherita,0
+2023-07-26,Chicken Sandwich,0
+2023-07-26,Burger,0
+2023-07-26,Caesar Salad,0
+2023-07-27,Pizza Margherita,50
+2023-07-27,Chicken Sandwich,30
+2023-07-27,Burger,18
+2023-07-27,Caesar Salad,8
+2023-07-28,Pizza Margherita,41
+2023-07-28,Chicken Sandwich,40
+2023-07-28,Burger,30
+2023-07-28,Caesar Salad,27
+2023-07-29,Pizza Margherita,54
+2023-07-29,Chicken Sandwich,41
+2023-07-29,Burger,39
+2023-07-29,Caesar Salad,26
+2023-07-30,Pizza Margherita,33
+2023-07-30,Chicken Sandwich,22
+2023-07-30,Burger,34
+2023-07-30,Caesar Salad,19
+2023-07-31,Pizza Margherita,32
+2023-07-31,Chicken Sandwich,29
+2023-07-31,Burger,18
+2023-07-31,Caesar Salad,17
+2023-08-01,Pizza Margherita,33
+2023-08-01,Chicken Sandwich,23
+2023-08-01,Burger,34
+2023-08-01,Caesar Salad,18
+2023-08-02,Pizza Margherita,35
+2023-08-02,Chicken Sandwich,26
+2023-08-02,Burger,30
+2023-08-02,Caesar Salad,15
+2023-08-03,Pizza Margherita,34
+2023-08-03,Chicken Sandwich,27
+2023-08-03,Burger,22
+2023-08-03,Caesar Salad,20
+2023-08-04,Pizza Margherita,54
+2023-08-04,Chicken Sandwich,39
+2023-08-04,Burger,37
+2023-08-04,Caesar Salad,23
+2023-08-05,Pizza Margherita,52
+2023-08-05,Chicken Sandwich,52
+2023-08-05,Burger,26
+2023-08-05,Caesar Salad,29
+2023-08-06,Pizza Margherita,0
+2023-08-06,Chicken Sandwich,0
+2023-08-06,Burger,0
+2023-08-06,Caesar Salad,0
+2023-08-07,Pizza Margherita,38
+2023-08-07,Chicken Sandwich,27
+2023-08-07,Burger,24
+2023-08-07,Caesar Salad,13
+2023-08-08,Pizza Margherita,32
+2023-08-08,Chicken Sandwich,22
+2023-08-08,Burger,20
+2023-08-08,Caesar Salad,15
+2023-08-09,Pizza Margherita,34
+2023-08-09,Chicken Sandwich,27
+2023-08-09,Burger,16
+2023-08-09,Caesar Salad,14
+2023-08-10,Pizza Margherita,36
+2023-08-10,Chicken Sandwich,27
+2023-08-10,Burger,31
+2023-08-10,Caesar Salad,22
+2023-08-11,Pizza Margherita,54
+2023-08-11,Chicken Sandwich,47
+2023-08-11,Burger,35
+2023-08-11,Caesar Salad,17
+2023-08-12,Pizza Margherita,0
+2023-08-12,Chicken Sandwich,0
+2023-08-12,Burger,0
+2023-08-12,Caesar Salad,0
+2023-08-13,Pizza Margherita,34
+2023-08-13,Chicken Sandwich,29
+2023-08-13,Burger,22
+2023-08-13,Caesar Salad,24
+2023-08-14,Pizza Margherita,45
+2023-08-14,Chicken Sandwich,27
+2023-08-14,Burger,23
+2023-08-14,Caesar Salad,18
+2023-08-15,Pizza Margherita,33
+2023-08-15,Chicken Sandwich,29
+2023-08-15,Burger,30
+2023-08-15,Caesar Salad,18
+2023-08-16,Pizza Margherita,42
+2023-08-16,Chicken Sandwich,22
+2023-08-16,Burger,27
+2023-08-16,Caesar Salad,19
+2023-08-17,Pizza Margherita,25
+2023-08-17,Chicken Sandwich,26
+2023-08-17,Burger,31
+2023-08-17,Caesar Salad,16
+2023-08-18,Pizza Margherita,55
+2023-08-18,Chicken Sandwich,34
+2023-08-18,Burger,41
+2023-08-18,Caesar Salad,34
+2023-08-19,Pizza Margherita,66
+2023-08-19,Chicken Sandwich,39
+2023-08-19,Burger,32
+2023-08-19,Caesar Salad,33
+2023-08-20,Pizza Margherita,40
+2023-08-20,Chicken Sandwich,27
+2023-08-20,Burger,18
+2023-08-20,Caesar Salad,16
+2023-08-21,Pizza Margherita,32
+2023-08-21,Chicken Sandwich,28
+2023-08-21,Burger,22
+2023-08-21,Caesar Salad,15
+2023-08-22,Pizza Margherita,34
+2023-08-22,Chicken Sandwich,30
+2023-08-22,Burger,22
+2023-08-22,Caesar Salad,9
+2023-08-23,Pizza Margherita,35
+2023-08-23,Chicken Sandwich,31
+2023-08-23,Burger,28
+2023-08-23,Caesar Salad,20
+2023-08-24,Pizza Margherita,44
+2023-08-24,Chicken Sandwich,31
+2023-08-24,Burger,30
+2023-08-24,Caesar Salad,17
+2023-08-25,Pizza Margherita,47
+2023-08-25,Chicken Sandwich,36
+2023-08-25,Burger,42
+2023-08-25,Caesar Salad,20
+2023-08-26,Pizza Margherita,53
+2023-08-26,Chicken Sandwich,38
+2023-08-26,Burger,38
+2023-08-26,Caesar Salad,36
+2023-08-27,Pizza Margherita,35
+2023-08-27,Chicken Sandwich,29
+2023-08-27,Burger,24
+2023-08-27,Caesar Salad,19
+2023-08-28,Pizza Margherita,34
+2023-08-28,Chicken Sandwich,27
+2023-08-28,Burger,19
+2023-08-28,Caesar Salad,18
+2023-08-29,Pizza Margherita,19
+2023-08-29,Chicken Sandwich,28
+2023-08-29,Burger,19
+2023-08-29,Caesar Salad,19
+2023-08-30,Pizza Margherita,37
+2023-08-30,Chicken Sandwich,36
+2023-08-30,Burger,23
+2023-08-30,Caesar Salad,24
+2023-08-31,Pizza Margherita,37
+2023-08-31,Chicken Sandwich,24
+2023-08-31,Burger,27
+2023-08-31,Caesar Salad,21
+2023-09-01,Pizza Margherita,50
+2023-09-01,Chicken Sandwich,25
+2023-09-01,Burger,23
+2023-09-01,Caesar Salad,20
+2023-09-02,Pizza Margherita,42
+2023-09-02,Chicken Sandwich,41
+2023-09-02,Burger,28
+2023-09-02,Caesar Salad,23
+2023-09-03,Pizza Margherita,26
+2023-09-03,Chicken Sandwich,23
+2023-09-03,Burger,19
+2023-09-03,Caesar Salad,13
+2023-09-04,Pizza Margherita,28
+2023-09-04,Chicken Sandwich,32
+2023-09-04,Burger,14
+2023-09-04,Caesar Salad,20
+2023-09-05,Pizza Margherita,23
+2023-09-05,Chicken Sandwich,29
+2023-09-05,Burger,21
+2023-09-05,Caesar Salad,13
+2023-09-06,Pizza Margherita,26
+2023-09-06,Chicken Sandwich,18
+2023-09-06,Burger,21
+2023-09-06,Caesar Salad,19
+2023-09-07,Pizza Margherita,31
+2023-09-07,Chicken Sandwich,24
+2023-09-07,Burger,20
+2023-09-07,Caesar Salad,12
+2023-09-08,Pizza Margherita,33
+2023-09-08,Chicken Sandwich,40
+2023-09-08,Burger,36
+2023-09-08,Caesar Salad,23
+2023-09-09,Pizza Margherita,49
+2023-09-09,Chicken Sandwich,36
+2023-09-09,Burger,29
+2023-09-09,Caesar Salad,20
+2023-09-10,Pizza Margherita,25
+2023-09-10,Chicken Sandwich,25
+2023-09-10,Burger,10
+2023-09-10,Caesar Salad,16
+2023-09-11,Pizza Margherita,33
+2023-09-11,Chicken Sandwich,27
+2023-09-11,Burger,22
+2023-09-11,Caesar Salad,16
+2023-09-12,Pizza Margherita,26
+2023-09-12,Chicken Sandwich,32
+2023-09-12,Burger,13
+2023-09-12,Caesar Salad,11
+2023-09-13,Pizza Margherita,36
+2023-09-13,Chicken Sandwich,26
+2023-09-13,Burger,19
+2023-09-13,Caesar Salad,18
+2023-09-14,Pizza Margherita,28
+2023-09-14,Chicken Sandwich,19
+2023-09-14,Burger,20
+2023-09-14,Caesar Salad,9
+2023-09-15,Pizza Margherita,49
+2023-09-15,Chicken Sandwich,40
+2023-09-15,Burger,20
+2023-09-15,Caesar Salad,32
+2023-09-16,Pizza Margherita,51
+2023-09-16,Chicken Sandwich,36
+2023-09-16,Burger,34
+2023-09-16,Caesar Salad,31
+2023-09-17,Pizza Margherita,26
+2023-09-17,Chicken Sandwich,25
+2023-09-17,Burger,19
+2023-09-17,Caesar Salad,10
+2023-09-18,Pizza Margherita,25
+2023-09-18,Chicken Sandwich,19
+2023-09-18,Burger,21
+2023-09-18,Caesar Salad,10
+2023-09-19,Pizza Margherita,28
+2023-09-19,Chicken Sandwich,33
+2023-09-19,Burger,27
+2023-09-19,Caesar Salad,19
+2023-09-20,Pizza Margherita,0
+2023-09-20,Chicken Sandwich,0
+2023-09-20,Burger,0
+2023-09-20,Caesar Salad,0
+2023-09-21,Pizza Margherita,32
+2023-09-21,Chicken Sandwich,28
+2023-09-21,Burger,31
+2023-09-21,Caesar Salad,18
+2023-09-22,Pizza Margherita,42
+2023-09-22,Chicken Sandwich,32
+2023-09-22,Burger,28
+2023-09-22,Caesar Salad,35
+2023-09-23,Pizza Margherita,0
+2023-09-23,Chicken Sandwich,0
+2023-09-23,Burger,0
+2023-09-23,Caesar Salad,0
+2023-09-24,Pizza Margherita,27
+2023-09-24,Chicken Sandwich,26
+2023-09-24,Burger,17
+2023-09-24,Caesar Salad,15
+2023-09-25,Pizza Margherita,32
+2023-09-25,Chicken Sandwich,29
+2023-09-25,Burger,21
+2023-09-25,Caesar Salad,5
+2023-09-26,Pizza Margherita,34
+2023-09-26,Chicken Sandwich,26
+2023-09-26,Burger,12
+2023-09-26,Caesar Salad,13
+2023-09-27,Pizza Margherita,29
+2023-09-27,Chicken Sandwich,27
+2023-09-27,Burger,13
+2023-09-27,Caesar Salad,14
+2023-09-28,Pizza Margherita,29
+2023-09-28,Chicken Sandwich,27
+2023-09-28,Burger,22
+2023-09-28,Caesar Salad,20
+2023-09-29,Pizza Margherita,42
+2023-09-29,Chicken Sandwich,31
+2023-09-29,Burger,23
+2023-09-29,Caesar Salad,22
+2023-09-30,Pizza Margherita,43
+2023-09-30,Chicken Sandwich,31
+2023-09-30,Burger,19
+2023-09-30,Caesar Salad,28
+2023-10-01,Pizza Margherita,30
+2023-10-01,Chicken Sandwich,24
+2023-10-01,Burger,25
+2023-10-01,Caesar Salad,16
+2023-10-02,Pizza Margherita,26
+2023-10-02,Chicken Sandwich,27
+2023-10-02,Burger,19
+2023-10-02,Caesar Salad,14
+2023-10-03,Pizza Margherita,22
+2023-10-03,Chicken Sandwich,31
+2023-10-03,Burger,19
+2023-10-03,Caesar Salad,15
+2023-10-04,Pizza Margherita,38
+2023-10-04,Chicken Sandwich,26
+2023-10-04,Burger,21
+2023-10-04,Caesar Salad,14
+2023-10-05,Pizza Margherita,31
+2023-10-05,Chicken Sandwich,25
+2023-10-05,Burger,23
+2023-10-05,Caesar Salad,10
+2023-10-06,Pizza Margherita,38
+2023-10-06,Chicken Sandwich,30
+2023-10-06,Burger,24
+2023-10-06,Caesar Salad,31
+2023-10-07,Pizza Margherita,51
+2023-10-07,Chicken Sandwich,41
+2023-10-07,Burger,26
+2023-10-07,Caesar Salad,24
+2023-10-08,Pizza Margherita,28
+2023-10-08,Chicken Sandwich,28
+2023-10-08,Burger,27
+2023-10-08,Caesar Salad,11
+2023-10-09,Pizza Margherita,47
+2023-10-09,Chicken Sandwich,21
+2023-10-09,Burger,26
+2023-10-09,Caesar Salad,15
+2023-10-10,Pizza Margherita,28
+2023-10-10,Chicken Sandwich,19
+2023-10-10,Burger,24
+2023-10-10,Caesar Salad,14
+2023-10-11,Pizza Margherita,31
+2023-10-11,Chicken Sandwich,21
+2023-10-11,Burger,15
+2023-10-11,Caesar Salad,17
+2023-10-12,Pizza Margherita,24
+2023-10-12,Chicken Sandwich,23
+2023-10-12,Burger,16
+2023-10-12,Caesar Salad,15
+2023-10-13,Pizza Margherita,36
+2023-10-13,Chicken Sandwich,42
+2023-10-13,Burger,35
+2023-10-13,Caesar Salad,27
+2023-10-14,Pizza Margherita,45
+2023-10-14,Chicken Sandwich,26
+2023-10-14,Burger,27
+2023-10-14,Caesar Salad,16
+2023-10-15,Pizza Margherita,38
+2023-10-15,Chicken Sandwich,29
+2023-10-15,Burger,22
+2023-10-15,Caesar Salad,12
+2023-10-16,Pizza Margherita,22
+2023-10-16,Chicken Sandwich,27
+2023-10-16,Burger,16
+2023-10-16,Caesar Salad,17
+2023-10-17,Pizza Margherita,0
+2023-10-17,Chicken Sandwich,0
+2023-10-17,Burger,0
+2023-10-17,Caesar Salad,0
+2023-10-18,Pizza Margherita,40
+2023-10-18,Chicken Sandwich,31
+2023-10-18,Burger,25
+2023-10-18,Caesar Salad,16
+2023-10-19,Pizza Margherita,33
+2023-10-19,Chicken Sandwich,15
+2023-10-19,Burger,14
+2023-10-19,Caesar Salad,13
+2023-10-20,Pizza Margherita,35
+2023-10-20,Chicken Sandwich,38
+2023-10-20,Burger,24
+2023-10-20,Caesar Salad,20
+2023-10-21,Pizza Margherita,38
+2023-10-21,Chicken Sandwich,34
+2023-10-21,Burger,33
+2023-10-21,Caesar Salad,17
+2023-10-22,Pizza Margherita,29
+2023-10-22,Chicken Sandwich,28
+2023-10-22,Burger,22
+2023-10-22,Caesar Salad,13
+2023-10-23,Pizza Margherita,35
+2023-10-23,Chicken Sandwich,24
+2023-10-23,Burger,16
+2023-10-23,Caesar Salad,12
+2023-10-24,Pizza Margherita,35
+2023-10-24,Chicken Sandwich,23
+2023-10-24,Burger,25
+2023-10-24,Caesar Salad,17
+2023-10-25,Pizza Margherita,0
+2023-10-25,Chicken Sandwich,0
+2023-10-25,Burger,0
+2023-10-25,Caesar Salad,0
+2023-10-26,Pizza Margherita,34
+2023-10-26,Chicken Sandwich,24
+2023-10-26,Burger,17
+2023-10-26,Caesar Salad,14
+2023-10-27,Pizza Margherita,40
+2023-10-27,Chicken Sandwich,46
+2023-10-27,Burger,30
+2023-10-27,Caesar Salad,15
+2023-10-28,Pizza Margherita,37
+2023-10-28,Chicken Sandwich,35
+2023-10-28,Burger,22
+2023-10-28,Caesar Salad,22
+2023-10-29,Pizza Margherita,31
+2023-10-29,Chicken Sandwich,18
+2023-10-29,Burger,22
+2023-10-29,Caesar Salad,28
+2023-10-30,Pizza Margherita,32
+2023-10-30,Chicken Sandwich,23
+2023-10-30,Burger,18
+2023-10-30,Caesar Salad,26
+2023-10-31,Pizza Margherita,40
+2023-10-31,Chicken Sandwich,28
+2023-10-31,Burger,20
+2023-10-31,Caesar Salad,14
+2023-11-01,Pizza Margherita,24
+2023-11-01,Chicken Sandwich,15
+2023-11-01,Burger,22
+2023-11-01,Caesar Salad,13
+2023-11-02,Pizza Margherita,31
+2023-11-02,Chicken Sandwich,26
+2023-11-02,Burger,22
+2023-11-02,Caesar Salad,13
+2023-11-03,Pizza Margherita,37
+2023-11-03,Chicken Sandwich,41
+2023-11-03,Burger,24
+2023-11-03,Caesar Salad,18
+2023-11-04,Pizza Margherita,34
+2023-11-04,Chicken Sandwich,35
+2023-11-04,Burger,22
+2023-11-04,Caesar Salad,14
+2023-11-05,Pizza Margherita,26
+2023-11-05,Chicken Sandwich,22
+2023-11-05,Burger,21
+2023-11-05,Caesar Salad,15
+2023-11-06,Pizza Margherita,23
+2023-11-06,Chicken Sandwich,25
+2023-11-06,Burger,22
+2023-11-06,Caesar Salad,16
+2023-11-07,Pizza Margherita,0
+2023-11-07,Chicken Sandwich,0
+2023-11-07,Burger,0
+2023-11-07,Caesar Salad,0
+2023-11-08,Pizza Margherita,22
+2023-11-08,Chicken Sandwich,15
+2023-11-08,Burger,11
+2023-11-08,Caesar Salad,10
+2023-11-09,Pizza Margherita,27
+2023-11-09,Chicken Sandwich,26
+2023-11-09,Burger,22
+2023-11-09,Caesar Salad,19
+2023-11-10,Pizza Margherita,37
+2023-11-10,Chicken Sandwich,25
+2023-11-10,Burger,29
+2023-11-10,Caesar Salad,13
+2023-11-11,Pizza Margherita,38
+2023-11-11,Chicken Sandwich,40
+2023-11-11,Burger,24
+2023-11-11,Caesar Salad,31
+2023-11-12,Pizza Margherita,27
+2023-11-12,Chicken Sandwich,23
+2023-11-12,Burger,20
+2023-11-12,Caesar Salad,13
+2023-11-13,Pizza Margherita,26
+2023-11-13,Chicken Sandwich,26
+2023-11-13,Burger,24
+2023-11-13,Caesar Salad,12
+2023-11-14,Pizza Margherita,0
+2023-11-14,Chicken Sandwich,0
+2023-11-14,Burger,0
+2023-11-14,Caesar Salad,0
+2023-11-15,Pizza Margherita,32
+2023-11-15,Chicken Sandwich,20
+2023-11-15,Burger,18
+2023-11-15,Caesar Salad,18
+2023-11-16,Pizza Margherita,29
+2023-11-16,Chicken Sandwich,33
+2023-11-16,Burger,26
+2023-11-16,Caesar Salad,17
+2023-11-17,Pizza Margherita,44
+2023-11-17,Chicken Sandwich,37
+2023-11-17,Burger,23
+2023-11-17,Caesar Salad,22
+2023-11-18,Pizza Margherita,37
+2023-11-18,Chicken Sandwich,33
+2023-11-18,Burger,27
+2023-11-18,Caesar Salad,24
+2023-11-19,Pizza Margherita,36
+2023-11-19,Chicken Sandwich,22
+2023-11-19,Burger,21
+2023-11-19,Caesar Salad,11
+2023-11-20,Pizza Margherita,33
+2023-11-20,Chicken Sandwich,29
+2023-11-20,Burger,16
+2023-11-20,Caesar Salad,15
+2023-11-21,Pizza Margherita,29
+2023-11-21,Chicken Sandwich,17
+2023-11-21,Burger,17
+2023-11-21,Caesar Salad,24
+2023-11-22,Pizza Margherita,32
+2023-11-22,Chicken Sandwich,22
+2023-11-22,Burger,17
+2023-11-22,Caesar Salad,17
+2023-11-23,Pizza Margherita,29
+2023-11-23,Chicken Sandwich,19
+2023-11-23,Burger,17
+2023-11-23,Caesar Salad,10
+2023-11-24,Pizza Margherita,39
+2023-11-24,Chicken Sandwich,29
+2023-11-24,Burger,29
+2023-11-24,Caesar Salad,20
+2023-11-25,Pizza Margherita,32
+2023-11-25,Chicken Sandwich,39
+2023-11-25,Burger,34
+2023-11-25,Caesar Salad,25
+2023-11-26,Pizza Margherita,27
+2023-11-26,Chicken Sandwich,30
+2023-11-26,Burger,23
+2023-11-26,Caesar Salad,20
+2023-11-27,Pizza Margherita,28
+2023-11-27,Chicken Sandwich,20
+2023-11-27,Burger,12
+2023-11-27,Caesar Salad,21
+2023-11-28,Pizza Margherita,23
+2023-11-28,Chicken Sandwich,26
+2023-11-28,Burger,13
+2023-11-28,Caesar Salad,8
+2023-11-29,Pizza Margherita,33
+2023-11-29,Chicken Sandwich,31
+2023-11-29,Burger,29
+2023-11-29,Caesar Salad,15
+2023-11-30,Pizza Margherita,19
+2023-11-30,Chicken Sandwich,28
+2023-11-30,Burger,14
+2023-11-30,Caesar Salad,11
+2023-12-01,Pizza Margherita,43
+2023-12-01,Chicken Sandwich,38
+2023-12-01,Burger,29
+2023-12-01,Caesar Salad,29
+2023-12-02,Pizza Margherita,54
+2023-12-02,Chicken Sandwich,26
+2023-12-02,Burger,26
+2023-12-02,Caesar Salad,25
+2023-12-03,Pizza Margherita,23
+2023-12-03,Chicken Sandwich,23
+2023-12-03,Burger,17
+2023-12-03,Caesar Salad,12
+2023-12-04,Pizza Margherita,34
+2023-12-04,Chicken Sandwich,19
+2023-12-04,Burger,22
+2023-12-04,Caesar Salad,17
+2023-12-05,Pizza Margherita,29
+2023-12-05,Chicken Sandwich,25
+2023-12-05,Burger,15
+2023-12-05,Caesar Salad,24
+2023-12-06,Pizza Margherita,28
+2023-12-06,Chicken Sandwich,33
+2023-12-06,Burger,28
+2023-12-06,Caesar Salad,9
+2023-12-07,Pizza Margherita,27
+2023-12-07,Chicken Sandwich,32
+2023-12-07,Burger,17
+2023-12-07,Caesar Salad,9
+2023-12-08,Pizza Margherita,43
+2023-12-08,Chicken Sandwich,25
+2023-12-08,Burger,18
+2023-12-08,Caesar Salad,19
+2023-12-09,Pizza Margherita,35
+2023-12-09,Chicken Sandwich,48
+2023-12-09,Burger,41
+2023-12-09,Caesar Salad,23
+2023-12-10,Pizza Margherita,33
+2023-12-10,Chicken Sandwich,25
+2023-12-10,Burger,18
+2023-12-10,Caesar Salad,17
+2023-12-11,Pizza Margherita,26
+2023-12-11,Chicken Sandwich,20
+2023-12-11,Burger,22
+2023-12-11,Caesar Salad,9
+2023-12-12,Pizza Margherita,27
+2023-12-12,Chicken Sandwich,26
+2023-12-12,Burger,24
+2023-12-12,Caesar Salad,15
+2023-12-13,Pizza Margherita,41
+2023-12-13,Chicken Sandwich,28
+2023-12-13,Burger,11
+2023-12-13,Caesar Salad,16
+2023-12-14,Pizza Margherita,40
+2023-12-14,Chicken Sandwich,26
+2023-12-14,Burger,17
+2023-12-14,Caesar Salad,18
+2023-12-15,Pizza Margherita,31
+2023-12-15,Chicken Sandwich,39
+2023-12-15,Burger,30
+2023-12-15,Caesar Salad,20
+2023-12-16,Pizza Margherita,42
+2023-12-16,Chicken Sandwich,47
+2023-12-16,Burger,26
+2023-12-16,Caesar Salad,21
+2023-12-17,Pizza Margherita,0
+2023-12-17,Chicken Sandwich,0
+2023-12-17,Burger,0
+2023-12-17,Caesar Salad,0
+2023-12-18,Pizza Margherita,26
+2023-12-18,Chicken Sandwich,22
+2023-12-18,Burger,15
+2023-12-18,Caesar Salad,15
+2023-12-19,Pizza Margherita,35
+2023-12-19,Chicken Sandwich,29
+2023-12-19,Burger,20
+2023-12-19,Caesar Salad,16
+2023-12-20,Pizza Margherita,33
+2023-12-20,Chicken Sandwich,22
+2023-12-20,Burger,21
+2023-12-20,Caesar Salad,13
+2023-12-21,Pizza Margherita,33
+2023-12-21,Chicken Sandwich,18
+2023-12-21,Burger,27
+2023-12-21,Caesar Salad,20
+2023-12-22,Pizza Margherita,42
+2023-12-22,Chicken Sandwich,34
+2023-12-22,Burger,24
+2023-12-22,Caesar Salad,29
+2023-12-23,Pizza Margherita,36
+2023-12-23,Chicken Sandwich,36
+2023-12-23,Burger,27
+2023-12-23,Caesar Salad,15
+2023-12-24,Pizza Margherita,48
+2023-12-24,Chicken Sandwich,16
+2023-12-24,Burger,23
+2023-12-24,Caesar Salad,15
+2023-12-25,Pizza Margherita,37
+2023-12-25,Chicken Sandwich,25
+2023-12-25,Burger,20
+2023-12-25,Caesar Salad,17
+2023-12-26,Pizza Margherita,30
+2023-12-26,Chicken Sandwich,22
+2023-12-26,Burger,22
+2023-12-26,Caesar Salad,20
+2023-12-27,Pizza Margherita,33
+2023-12-27,Chicken Sandwich,19
+2023-12-27,Burger,13
+2023-12-27,Caesar Salad,16
+2023-12-28,Pizza Margherita,0
+2023-12-28,Chicken Sandwich,0
+2023-12-28,Burger,0
+2023-12-28,Caesar Salad,0
+2023-12-29,Pizza Margherita,30
+2023-12-29,Chicken Sandwich,32
+2023-12-29,Burger,24
+2023-12-29,Caesar Salad,27
+2023-12-30,Pizza Margherita,45
+2023-12-30,Chicken Sandwich,32
+2023-12-30,Burger,31
+2023-12-30,Caesar Salad,20
+2023-12-31,Pizza Margherita,34
+2023-12-31,Chicken Sandwich,27
+2023-12-31,Burger,19
+2023-12-31,Caesar Salad,16
+2024-01-01,Pizza Margherita,31
+2024-01-01,Chicken Sandwich,34
+2024-01-01,Burger,19
+2024-01-01,Caesar Salad,19
+2024-01-02,Pizza Margherita,33
+2024-01-02,Chicken Sandwich,28
+2024-01-02,Burger,16
+2024-01-02,Caesar Salad,16
+2024-01-03,Pizza Margherita,37
+2024-01-03,Chicken Sandwich,28
+2024-01-03,Burger,18
+2024-01-03,Caesar Salad,14
+2024-01-04,Pizza Margherita,34
+2024-01-04,Chicken Sandwich,25
+2024-01-04,Burger,22
+2024-01-04,Caesar Salad,16
+2024-01-05,Pizza Margherita,43
+2024-01-05,Chicken Sandwich,35
+2024-01-05,Burger,20
+2024-01-05,Caesar Salad,21
+2024-01-06,Pizza Margherita,32
+2024-01-06,Chicken Sandwich,42
+2024-01-06,Burger,16
+2024-01-06,Caesar Salad,21
+2024-01-07,Pizza Margherita,33
+2024-01-07,Chicken Sandwich,21
+2024-01-07,Burger,15
+2024-01-07,Caesar Salad,21
+2024-01-08,Pizza Margherita,38
+2024-01-08,Chicken Sandwich,22
+2024-01-08,Burger,14
+2024-01-08,Caesar Salad,20
+2024-01-09,Pizza Margherita,27
+2024-01-09,Chicken Sandwich,22
+2024-01-09,Burger,20
+2024-01-09,Caesar Salad,16
+2024-01-10,Pizza Margherita,34
+2024-01-10,Chicken Sandwich,33
+2024-01-10,Burger,26
+2024-01-10,Caesar Salad,19
+2024-01-11,Pizza Margherita,34
+2024-01-11,Chicken Sandwich,22
+2024-01-11,Burger,17
+2024-01-11,Caesar Salad,19
+2024-01-12,Pizza Margherita,47
+2024-01-12,Chicken Sandwich,40
+2024-01-12,Burger,26
+2024-01-12,Caesar Salad,19
+2024-01-13,Pizza Margherita,48
+2024-01-13,Chicken Sandwich,41
+2024-01-13,Burger,33
+2024-01-13,Caesar Salad,31
+2024-01-14,Pizza Margherita,26
+2024-01-14,Chicken Sandwich,25
+2024-01-14,Burger,29
+2024-01-14,Caesar Salad,10
+2024-01-15,Pizza Margherita,25
+2024-01-15,Chicken Sandwich,27
+2024-01-15,Burger,21
+2024-01-15,Caesar Salad,16
+2024-01-16,Pizza Margherita,28
+2024-01-16,Chicken Sandwich,27
+2024-01-16,Burger,19
+2024-01-16,Caesar Salad,17
+2024-01-17,Pizza Margherita,38
+2024-01-17,Chicken Sandwich,27
+2024-01-17,Burger,21
+2024-01-17,Caesar Salad,16
+2024-01-18,Pizza Margherita,36
+2024-01-18,Chicken Sandwich,30
+2024-01-18,Burger,17
+2024-01-18,Caesar Salad,19
+2024-01-19,Pizza Margherita,39
+2024-01-19,Chicken Sandwich,30
+2024-01-19,Burger,25
+2024-01-19,Caesar Salad,18
+2024-01-20,Pizza Margherita,38
+2024-01-20,Chicken Sandwich,28
+2024-01-20,Burger,35
+2024-01-20,Caesar Salad,17
+2024-01-21,Pizza Margherita,38
+2024-01-21,Chicken Sandwich,21
+2024-01-21,Burger,16
+2024-01-21,Caesar Salad,14
+2024-01-22,Pizza Margherita,28
+2024-01-22,Chicken Sandwich,22
+2024-01-22,Burger,17
+2024-01-22,Caesar Salad,12
+2024-01-23,Pizza Margherita,34
+2024-01-23,Chicken Sandwich,24
+2024-01-23,Burger,15
+2024-01-23,Caesar Salad,16
+2024-01-24,Pizza Margherita,21
+2024-01-24,Chicken Sandwich,29
+2024-01-24,Burger,17
+2024-01-24,Caesar Salad,20
+2024-01-25,Pizza Margherita,31
+2024-01-25,Chicken Sandwich,15
+2024-01-25,Burger,18
+2024-01-25,Caesar Salad,14
+2024-01-26,Pizza Margherita,0
+2024-01-26,Chicken Sandwich,0
+2024-01-26,Burger,0
+2024-01-26,Caesar Salad,0
+2024-01-27,Pizza Margherita,50
+2024-01-27,Chicken Sandwich,39
+2024-01-27,Burger,38
+2024-01-27,Caesar Salad,23
+2024-01-28,Pizza Margherita,37
+2024-01-28,Chicken Sandwich,30
+2024-01-28,Burger,32
+2024-01-28,Caesar Salad,17
+2024-01-29,Pizza Margherita,31
+2024-01-29,Chicken Sandwich,21
+2024-01-29,Burger,24
+2024-01-29,Caesar Salad,11
+2024-01-30,Pizza Margherita,37
+2024-01-30,Chicken Sandwich,17
+2024-01-30,Burger,17
+2024-01-30,Caesar Salad,8
+2024-01-31,Pizza Margherita,0
+2024-01-31,Chicken Sandwich,0
+2024-01-31,Burger,0
+2024-01-31,Caesar Salad,0
+2024-02-01,Pizza Margherita,29
+2024-02-01,Chicken Sandwich,24
+2024-02-01,Burger,17
+2024-02-01,Caesar Salad,22
+2024-02-02,Pizza Margherita,31
+2024-02-02,Chicken Sandwich,35
+2024-02-02,Burger,31
+2024-02-02,Caesar Salad,23
+2024-02-03,Pizza Margherita,48
+2024-02-03,Chicken Sandwich,39
+2024-02-03,Burger,38
+2024-02-03,Caesar Salad,21
+2024-02-04,Pizza Margherita,44
+2024-02-04,Chicken Sandwich,23
+2024-02-04,Burger,16
+2024-02-04,Caesar Salad,16
+2024-02-05,Pizza Margherita,0
+2024-02-05,Chicken Sandwich,0
+2024-02-05,Burger,0
+2024-02-05,Caesar Salad,0
+2024-02-06,Pizza Margherita,32
+2024-02-06,Chicken Sandwich,24
+2024-02-06,Burger,17
+2024-02-06,Caesar Salad,17
+2024-02-07,Pizza Margherita,31
+2024-02-07,Chicken Sandwich,26
+2024-02-07,Burger,19
+2024-02-07,Caesar Salad,14
+2024-02-08,Pizza Margherita,33
+2024-02-08,Chicken Sandwich,29
+2024-02-08,Burger,20
+2024-02-08,Caesar Salad,18
+2024-02-09,Pizza Margherita,37
+2024-02-09,Chicken Sandwich,46
+2024-02-09,Burger,28
+2024-02-09,Caesar Salad,20
+2024-02-10,Pizza Margherita,38
+2024-02-10,Chicken Sandwich,38
+2024-02-10,Burger,33
+2024-02-10,Caesar Salad,24
+2024-02-11,Pizza Margherita,32
+2024-02-11,Chicken Sandwich,37
+2024-02-11,Burger,23
+2024-02-11,Caesar Salad,12
+2024-02-12,Pizza Margherita,29
+2024-02-12,Chicken Sandwich,23
+2024-02-12,Burger,21
+2024-02-12,Caesar Salad,19
+2024-02-13,Pizza Margherita,33
+2024-02-13,Chicken Sandwich,24
+2024-02-13,Burger,22
+2024-02-13,Caesar Salad,23
+2024-02-14,Pizza Margherita,31
+2024-02-14,Chicken Sandwich,27
+2024-02-14,Burger,18
+2024-02-14,Caesar Salad,9
+2024-02-15,Pizza Margherita,34
+2024-02-15,Chicken Sandwich,42
+2024-02-15,Burger,28
+2024-02-15,Caesar Salad,10
+2024-02-16,Pizza Margherita,42
+2024-02-16,Chicken Sandwich,45
+2024-02-16,Burger,25
+2024-02-16,Caesar Salad,15
+2024-02-17,Pizza Margherita,34
+2024-02-17,Chicken Sandwich,39
+2024-02-17,Burger,26
+2024-02-17,Caesar Salad,22
+2024-02-18,Pizza Margherita,0
+2024-02-18,Chicken Sandwich,0
+2024-02-18,Burger,0
+2024-02-18,Caesar Salad,0
+2024-02-19,Pizza Margherita,30
+2024-02-19,Chicken Sandwich,31
+2024-02-19,Burger,19
+2024-02-19,Caesar Salad,15
+2024-02-20,Pizza Margherita,33
+2024-02-20,Chicken Sandwich,23
+2024-02-20,Burger,16
+2024-02-20,Caesar Salad,15
+2024-02-21,Pizza Margherita,30
+2024-02-21,Chicken Sandwich,25
+2024-02-21,Burger,20
+2024-02-21,Caesar Salad,13
+2024-02-22,Pizza Margherita,30
+2024-02-22,Chicken Sandwich,16
+2024-02-22,Burger,15
+2024-02-22,Caesar Salad,11
+2024-02-23,Pizza Margherita,36
+2024-02-23,Chicken Sandwich,43
+2024-02-23,Burger,27
+2024-02-23,Caesar Salad,12
+2024-02-24,Pizza Margherita,32
+2024-02-24,Chicken Sandwich,32
+2024-02-24,Burger,31
+2024-02-24,Caesar Salad,19
+2024-02-25,Pizza Margherita,30
+2024-02-25,Chicken Sandwich,24
+2024-02-25,Burger,30
+2024-02-25,Caesar Salad,15
+2024-02-26,Pizza Margherita,20
+2024-02-26,Chicken Sandwich,14
+2024-02-26,Burger,20
+2024-02-26,Caesar Salad,9
+2024-02-27,Pizza Margherita,31
+2024-02-27,Chicken Sandwich,23
+2024-02-27,Burger,16
+2024-02-27,Caesar Salad,8
+2024-02-28,Pizza Margherita,25
+2024-02-28,Chicken Sandwich,17
+2024-02-28,Burger,18
+2024-02-28,Caesar Salad,18
+2024-02-29,Pizza Margherita,37
+2024-02-29,Chicken Sandwich,25
+2024-02-29,Burger,20
+2024-02-29,Caesar Salad,10
+2024-03-01,Pizza Margherita,37
+2024-03-01,Chicken Sandwich,46
+2024-03-01,Burger,29
+2024-03-01,Caesar Salad,17
+2024-03-02,Pizza Margherita,31
+2024-03-02,Chicken Sandwich,30
+2024-03-02,Burger,25
+2024-03-02,Caesar Salad,23
+2024-03-03,Pizza Margherita,30
+2024-03-03,Chicken Sandwich,25
+2024-03-03,Burger,22
+2024-03-03,Caesar Salad,10
+2024-03-04,Pizza Margherita,27
+2024-03-04,Chicken Sandwich,23
+2024-03-04,Burger,19
+2024-03-04,Caesar Salad,15
+2024-03-05,Pizza Margherita,25
+2024-03-05,Chicken Sandwich,23
+2024-03-05,Burger,30
+2024-03-05,Caesar Salad,15
+2024-03-06,Pizza Margherita,28
+2024-03-06,Chicken Sandwich,19
+2024-03-06,Burger,14
+2024-03-06,Caesar Salad,12
+2024-03-07,Pizza Margherita,39
+2024-03-07,Chicken Sandwich,23
+2024-03-07,Burger,19
+2024-03-07,Caesar Salad,17
+2024-03-08,Pizza Margherita,34
+2024-03-08,Chicken Sandwich,33
+2024-03-08,Burger,32
+2024-03-08,Caesar Salad,21
+2024-03-09,Pizza Margherita,43
+2024-03-09,Chicken Sandwich,24
+2024-03-09,Burger,20
+2024-03-09,Caesar Salad,26
+2024-03-10,Pizza Margherita,25
+2024-03-10,Chicken Sandwich,26
+2024-03-10,Burger,17
+2024-03-10,Caesar Salad,16
+2024-03-11,Pizza Margherita,0
+2024-03-11,Chicken Sandwich,0
+2024-03-11,Burger,0
+2024-03-11,Caesar Salad,0
+2024-03-12,Pizza Margherita,39
+2024-03-12,Chicken Sandwich,28
+2024-03-12,Burger,27
+2024-03-12,Caesar Salad,13
+2024-03-13,Pizza Margherita,35
+2024-03-13,Chicken Sandwich,29
+2024-03-13,Burger,21
+2024-03-13,Caesar Salad,13
+2024-03-14,Pizza Margherita,42
+2024-03-14,Chicken Sandwich,32
+2024-03-14,Burger,20
+2024-03-14,Caesar Salad,18
+2024-03-15,Pizza Margherita,41
+2024-03-15,Chicken Sandwich,35
+2024-03-15,Burger,28
+2024-03-15,Caesar Salad,24
+2024-03-16,Pizza Margherita,40
+2024-03-16,Chicken Sandwich,34
+2024-03-16,Burger,27
+2024-03-16,Caesar Salad,17
+2024-03-17,Pizza Margherita,29
+2024-03-17,Chicken Sandwich,26
+2024-03-17,Burger,27
+2024-03-17,Caesar Salad,14
+2024-03-18,Pizza Margherita,30
+2024-03-18,Chicken Sandwich,31
+2024-03-18,Burger,22
+2024-03-18,Caesar Salad,15
+2024-03-19,Pizza Margherita,35
+2024-03-19,Chicken Sandwich,27
+2024-03-19,Burger,23
+2024-03-19,Caesar Salad,17
+2024-03-20,Pizza Margherita,39
+2024-03-20,Chicken Sandwich,17
+2024-03-20,Burger,12
+2024-03-20,Caesar Salad,16
+2024-03-21,Pizza Margherita,26
+2024-03-21,Chicken Sandwich,19
+2024-03-21,Burger,16
+2024-03-21,Caesar Salad,9
+2024-03-22,Pizza Margherita,0
+2024-03-22,Chicken Sandwich,0
+2024-03-22,Burger,0
+2024-03-22,Caesar Salad,0
+2024-03-23,Pizza Margherita,47
+2024-03-23,Chicken Sandwich,29
+2024-03-23,Burger,27
+2024-03-23,Caesar Salad,24
+2024-03-24,Pizza Margherita,29
+2024-03-24,Chicken Sandwich,26
+2024-03-24,Burger,22
+2024-03-24,Caesar Salad,11
+2024-03-25,Pizza Margherita,27
+2024-03-25,Chicken Sandwich,26
+2024-03-25,Burger,21
+2024-03-25,Caesar Salad,28
+2024-03-26,Pizza Margherita,34
+2024-03-26,Chicken Sandwich,15
+2024-03-26,Burger,18
+2024-03-26,Caesar Salad,15
+2024-03-27,Pizza Margherita,30
+2024-03-27,Chicken Sandwich,28
+2024-03-27,Burger,25
+2024-03-27,Caesar Salad,11
+2024-03-28,Pizza Margherita,27
+2024-03-28,Chicken Sandwich,20
+2024-03-28,Burger,25
+2024-03-28,Caesar Salad,24
+2024-03-29,Pizza Margherita,38
+2024-03-29,Chicken Sandwich,38
+2024-03-29,Burger,27
+2024-03-29,Caesar Salad,25
+2024-03-30,Pizza Margherita,48
+2024-03-30,Chicken Sandwich,29
+2024-03-30,Burger,26
+2024-03-30,Caesar Salad,18
+2024-03-31,Pizza Margherita,32
+2024-03-31,Chicken Sandwich,32
+2024-03-31,Burger,27
+2024-03-31,Caesar Salad,8
+2024-04-01,Pizza Margherita,20
+2024-04-01,Chicken Sandwich,30
+2024-04-01,Burger,19
+2024-04-01,Caesar Salad,15
+2024-04-02,Pizza Margherita,29
+2024-04-02,Chicken Sandwich,26
+2024-04-02,Burger,29
+2024-04-02,Caesar Salad,15
+2024-04-03,Pizza Margherita,26
+2024-04-03,Chicken Sandwich,31
+2024-04-03,Burger,25
+2024-04-03,Caesar Salad,16
+2024-04-04,Pizza Margherita,25
+2024-04-04,Chicken Sandwich,15
+2024-04-04,Burger,12
+2024-04-04,Caesar Salad,19
+2024-04-05,Pizza Margherita,42
+2024-04-05,Chicken Sandwich,27
+2024-04-05,Burger,29
+2024-04-05,Caesar Salad,21
+2024-04-06,Pizza Margherita,35
+2024-04-06,Chicken Sandwich,38
+2024-04-06,Burger,36
+2024-04-06,Caesar Salad,31
+2024-04-07,Pizza Margherita,30
+2024-04-07,Chicken Sandwich,21
+2024-04-07,Burger,23
+2024-04-07,Caesar Salad,15
+2024-04-08,Pizza Margherita,23
+2024-04-08,Chicken Sandwich,22
+2024-04-08,Burger,20
+2024-04-08,Caesar Salad,16
+2024-04-09,Pizza Margherita,34
+2024-04-09,Chicken Sandwich,32
+2024-04-09,Burger,20
+2024-04-09,Caesar Salad,11
+2024-04-10,Pizza Margherita,27
+2024-04-10,Chicken Sandwich,28
+2024-04-10,Burger,16
+2024-04-10,Caesar Salad,15
+2024-04-11,Pizza Margherita,28
+2024-04-11,Chicken Sandwich,20
+2024-04-11,Burger,15
+2024-04-11,Caesar Salad,15
+2024-04-12,Pizza Margherita,53
+2024-04-12,Chicken Sandwich,43
+2024-04-12,Burger,26
+2024-04-12,Caesar Salad,24
+2024-04-13,Pizza Margherita,37
+2024-04-13,Chicken Sandwich,36
+2024-04-13,Burger,25
+2024-04-13,Caesar Salad,23
+2024-04-14,Pizza Margherita,0
+2024-04-14,Chicken Sandwich,0
+2024-04-14,Burger,0
+2024-04-14,Caesar Salad,0
+2024-04-15,Pizza Margherita,31
+2024-04-15,Chicken Sandwich,20
+2024-04-15,Burger,16
+2024-04-15,Caesar Salad,13
+2024-04-16,Pizza Margherita,36
+2024-04-16,Chicken Sandwich,26
+2024-04-16,Burger,25
+2024-04-16,Caesar Salad,12
+2024-04-17,Pizza Margherita,22
+2024-04-17,Chicken Sandwich,23
+2024-04-17,Burger,21
+2024-04-17,Caesar Salad,17
+2024-04-18,Pizza Margherita,30
+2024-04-18,Chicken Sandwich,19
+2024-04-18,Burger,19
+2024-04-18,Caesar Salad,11
+2024-04-19,Pizza Margherita,35
+2024-04-19,Chicken Sandwich,44
+2024-04-19,Burger,30
+2024-04-19,Caesar Salad,21
+2024-04-20,Pizza Margherita,43
+2024-04-20,Chicken Sandwich,34
+2024-04-20,Burger,33
+2024-04-20,Caesar Salad,27
+2024-04-21,Pizza Margherita,35
+2024-04-21,Chicken Sandwich,22
+2024-04-21,Burger,20
+2024-04-21,Caesar Salad,12
+2024-04-22,Pizza Margherita,30
+2024-04-22,Chicken Sandwich,31
+2024-04-22,Burger,22
+2024-04-22,Caesar Salad,10
+2024-04-23,Pizza Margherita,28
+2024-04-23,Chicken Sandwich,29
+2024-04-23,Burger,21
+2024-04-23,Caesar Salad,20
+2024-04-24,Pizza Margherita,22
+2024-04-24,Chicken Sandwich,24
+2024-04-24,Burger,24
+2024-04-24,Caesar Salad,8
+2024-04-25,Pizza Margherita,34
+2024-04-25,Chicken Sandwich,28
+2024-04-25,Burger,16
+2024-04-25,Caesar Salad,18
+2024-04-26,Pizza Margherita,45
+2024-04-26,Chicken Sandwich,35
+2024-04-26,Burger,21
+2024-04-26,Caesar Salad,11
+2024-04-27,Pizza Margherita,39
+2024-04-27,Chicken Sandwich,39
+2024-04-27,Burger,18
+2024-04-27,Caesar Salad,17
+2024-04-28,Pizza Margherita,35
+2024-04-28,Chicken Sandwich,21
+2024-04-28,Burger,15
+2024-04-28,Caesar Salad,18
+2024-04-29,Pizza Margherita,0
+2024-04-29,Chicken Sandwich,0
+2024-04-29,Burger,0
+2024-04-29,Caesar Salad,0
+2024-04-30,Pizza Margherita,31
+2024-04-30,Chicken Sandwich,22
+2024-04-30,Burger,15
+2024-04-30,Caesar Salad,20
+2024-05-01,Pizza Margherita,36
+2024-05-01,Chicken Sandwich,25
+2024-05-01,Burger,22
+2024-05-01,Caesar Salad,17
+2024-05-02,Pizza Margherita,30
+2024-05-02,Chicken Sandwich,27
+2024-05-02,Burger,16
+2024-05-02,Caesar Salad,18
+2024-05-03,Pizza Margherita,41
+2024-05-03,Chicken Sandwich,32
+2024-05-03,Burger,31
+2024-05-03,Caesar Salad,27
+2024-05-04,Pizza Margherita,50
+2024-05-04,Chicken Sandwich,38
+2024-05-04,Burger,25
+2024-05-04,Caesar Salad,15
+2024-05-05,Pizza Margherita,29
+2024-05-05,Chicken Sandwich,27
+2024-05-05,Burger,13
+2024-05-05,Caesar Salad,20
+2024-05-06,Pizza Margherita,24
+2024-05-06,Chicken Sandwich,21
+2024-05-06,Burger,18
+2024-05-06,Caesar Salad,17
+2024-05-07,Pizza Margherita,27
+2024-05-07,Chicken Sandwich,20
+2024-05-07,Burger,16
+2024-05-07,Caesar Salad,15
+2024-05-08,Pizza Margherita,39
+2024-05-08,Chicken Sandwich,22
+2024-05-08,Burger,14
+2024-05-08,Caesar Salad,14
+2024-05-09,Pizza Margherita,38
+2024-05-09,Chicken Sandwich,26
+2024-05-09,Burger,19
+2024-05-09,Caesar Salad,16
+2024-05-10,Pizza Margherita,49
+2024-05-10,Chicken Sandwich,43
+2024-05-10,Burger,22
+2024-05-10,Caesar Salad,23
+2024-05-11,Pizza Margherita,33
+2024-05-11,Chicken Sandwich,25
+2024-05-11,Burger,39
+2024-05-11,Caesar Salad,25
+2024-05-12,Pizza Margherita,26
+2024-05-12,Chicken Sandwich,31
+2024-05-12,Burger,20
+2024-05-12,Caesar Salad,14
+2024-05-13,Pizza Margherita,28
+2024-05-13,Chicken Sandwich,25
+2024-05-13,Burger,18
+2024-05-13,Caesar Salad,10
+2024-05-14,Pizza Margherita,21
+2024-05-14,Chicken Sandwich,19
+2024-05-14,Burger,24
+2024-05-14,Caesar Salad,16
+2024-05-15,Pizza Margherita,31
+2024-05-15,Chicken Sandwich,23
+2024-05-15,Burger,20
+2024-05-15,Caesar Salad,14
+2024-05-16,Pizza Margherita,26
+2024-05-16,Chicken Sandwich,16
+2024-05-16,Burger,24
+2024-05-16,Caesar Salad,16
+2024-05-17,Pizza Margherita,38
+2024-05-17,Chicken Sandwich,32
+2024-05-17,Burger,36
+2024-05-17,Caesar Salad,23
+2024-05-18,Pizza Margherita,33
+2024-05-18,Chicken Sandwich,29
+2024-05-18,Burger,33
+2024-05-18,Caesar Salad,13
+2024-05-19,Pizza Margherita,29
+2024-05-19,Chicken Sandwich,32
+2024-05-19,Burger,15
+2024-05-19,Caesar Salad,13
+2024-05-20,Pizza Margherita,40
+2024-05-20,Chicken Sandwich,25
+2024-05-20,Burger,28
+2024-05-20,Caesar Salad,14
+2024-05-21,Pizza Margherita,0
+2024-05-21,Chicken Sandwich,0
+2024-05-21,Burger,0
+2024-05-21,Caesar Salad,0
+2024-05-22,Pizza Margherita,33
+2024-05-22,Chicken Sandwich,20
+2024-05-22,Burger,22
+2024-05-22,Caesar Salad,14
+2024-05-23,Pizza Margherita,26
+2024-05-23,Chicken Sandwich,33
+2024-05-23,Burger,17
+2024-05-23,Caesar Salad,10
+2024-05-24,Pizza Margherita,42
+2024-05-24,Chicken Sandwich,32
+2024-05-24,Burger,22
+2024-05-24,Caesar Salad,26
+2024-05-25,Pizza Margherita,0
+2024-05-25,Chicken Sandwich,0
+2024-05-25,Burger,0
+2024-05-25,Caesar Salad,0
+2024-05-26,Pizza Margherita,29
+2024-05-26,Chicken Sandwich,30
+2024-05-26,Burger,19
+2024-05-26,Caesar Salad,14
+2024-05-27,Pizza Margherita,30
+2024-05-27,Chicken Sandwich,25
+2024-05-27,Burger,19
+2024-05-27,Caesar Salad,12
+2024-05-28,Pizza Margherita,31
+2024-05-28,Chicken Sandwich,28
+2024-05-28,Burger,22
+2024-05-28,Caesar Salad,14
+2024-05-29,Pizza Margherita,24
+2024-05-29,Chicken Sandwich,26
+2024-05-29,Burger,22
+2024-05-29,Caesar Salad,13
+2024-05-30,Pizza Margherita,20
+2024-05-30,Chicken Sandwich,18
+2024-05-30,Burger,26
+2024-05-30,Caesar Salad,12
+2024-05-31,Pizza Margherita,40
+2024-05-31,Chicken Sandwich,27
+2024-05-31,Burger,21
+2024-05-31,Caesar Salad,16
+2024-06-01,Pizza Margherita,48
+2024-06-01,Chicken Sandwich,34
+2024-06-01,Burger,28
+2024-06-01,Caesar Salad,18
+2024-06-02,Pizza Margherita,33
+2024-06-02,Chicken Sandwich,22
+2024-06-02,Burger,19
+2024-06-02,Caesar Salad,14
+2024-06-03,Pizza Margherita,33
+2024-06-03,Chicken Sandwich,25
+2024-06-03,Burger,16
+2024-06-03,Caesar Salad,14
+2024-06-04,Pizza Margherita,23
+2024-06-04,Chicken Sandwich,26
+2024-06-04,Burger,13
+2024-06-04,Caesar Salad,11
+2024-06-05,Pizza Margherita,29
+2024-06-05,Chicken Sandwich,28
+2024-06-05,Burger,16
+2024-06-05,Caesar Salad,15
+2024-06-06,Pizza Margherita,0
+2024-06-06,Chicken Sandwich,0
+2024-06-06,Burger,0
+2024-06-06,Caesar Salad,0
+2024-06-07,Pizza Margherita,46
+2024-06-07,Chicken Sandwich,43
+2024-06-07,Burger,31
+2024-06-07,Caesar Salad,15
+2024-06-08,Pizza Margherita,40
+2024-06-08,Chicken Sandwich,32
+2024-06-08,Burger,32
+2024-06-08,Caesar Salad,29
+2024-06-09,Pizza Margherita,28
+2024-06-09,Chicken Sandwich,25
+2024-06-09,Burger,16
+2024-06-09,Caesar Salad,18
+2024-06-10,Pizza Margherita,34
+2024-06-10,Chicken Sandwich,30
+2024-06-10,Burger,22
+2024-06-10,Caesar Salad,13
+2024-06-11,Pizza Margherita,0
+2024-06-11,Chicken Sandwich,0
+2024-06-11,Burger,0
+2024-06-11,Caesar Salad,0
+2024-06-12,Pizza Margherita,32
+2024-06-12,Chicken Sandwich,31
+2024-06-12,Burger,20
+2024-06-12,Caesar Salad,16
+2024-06-13,Pizza Margherita,33
+2024-06-13,Chicken Sandwich,21
+2024-06-13,Burger,16
+2024-06-13,Caesar Salad,20
+2024-06-14,Pizza Margherita,39
+2024-06-14,Chicken Sandwich,28
+2024-06-14,Burger,28
+2024-06-14,Caesar Salad,17
+2024-06-15,Pizza Margherita,39
+2024-06-15,Chicken Sandwich,37
+2024-06-15,Burger,25
+2024-06-15,Caesar Salad,22
+2024-06-16,Pizza Margherita,29
+2024-06-16,Chicken Sandwich,33
+2024-06-16,Burger,17
+2024-06-16,Caesar Salad,13
+2024-06-17,Pizza Margherita,32
+2024-06-17,Chicken Sandwich,34
+2024-06-17,Burger,23
+2024-06-17,Caesar Salad,16
+2024-06-18,Pizza Margherita,24
+2024-06-18,Chicken Sandwich,23
+2024-06-18,Burger,16
+2024-06-18,Caesar Salad,18
+2024-06-19,Pizza Margherita,17
+2024-06-19,Chicken Sandwich,29
+2024-06-19,Burger,23
+2024-06-19,Caesar Salad,12
+2024-06-20,Pizza Margherita,25
+2024-06-20,Chicken Sandwich,20
+2024-06-20,Burger,20
+2024-06-20,Caesar Salad,16
+2024-06-21,Pizza Margherita,53
+2024-06-21,Chicken Sandwich,43
+2024-06-21,Burger,30
+2024-06-21,Caesar Salad,20
+2024-06-22,Pizza Margherita,44
+2024-06-22,Chicken Sandwich,37
+2024-06-22,Burger,36
+2024-06-22,Caesar Salad,27
+2024-06-23,Pizza Margherita,25
+2024-06-23,Chicken Sandwich,22
+2024-06-23,Burger,16
+2024-06-23,Caesar Salad,11
+2024-06-24,Pizza Margherita,31
+2024-06-24,Chicken Sandwich,30
+2024-06-24,Burger,21
+2024-06-24,Caesar Salad,16
+2024-06-25,Pizza Margherita,24
+2024-06-25,Chicken Sandwich,22
+2024-06-25,Burger,28
+2024-06-25,Caesar Salad,16
+2024-06-26,Pizza Margherita,26
+2024-06-26,Chicken Sandwich,22
+2024-06-26,Burger,19
+2024-06-26,Caesar Salad,15
+2024-06-27,Pizza Margherita,27
+2024-06-27,Chicken Sandwich,19
+2024-06-27,Burger,19
+2024-06-27,Caesar Salad,22
+2024-06-28,Pizza Margherita,48
+2024-06-28,Chicken Sandwich,47
+2024-06-28,Burger,27
+2024-06-28,Caesar Salad,19
+2024-06-29,Pizza Margherita,46
+2024-06-29,Chicken Sandwich,36
+2024-06-29,Burger,34
+2024-06-29,Caesar Salad,16
+2024-06-30,Pizza Margherita,30
+2024-06-30,Chicken Sandwich,19
+2024-06-30,Burger,14
+2024-06-30,Caesar Salad,16
+2024-07-01,Pizza Margherita,23
+2024-07-01,Chicken Sandwich,32
+2024-07-01,Burger,23
+2024-07-01,Caesar Salad,19
+2024-07-02,Pizza Margherita,0
+2024-07-02,Chicken Sandwich,0
+2024-07-02,Burger,0
+2024-07-02,Caesar Salad,0
+2024-07-03,Pizza Margherita,35
+2024-07-03,Chicken Sandwich,27
+2024-07-03,Burger,19
+2024-07-03,Caesar Salad,24
+2024-07-04,Pizza Margherita,23
+2024-07-04,Chicken Sandwich,25
+2024-07-04,Burger,26
+2024-07-04,Caesar Salad,16
+2024-07-05,Pizza Margherita,47
+2024-07-05,Chicken Sandwich,52
+2024-07-05,Burger,42
+2024-07-05,Caesar Salad,28
+2024-07-06,Pizza Margherita,50
+2024-07-06,Chicken Sandwich,29
+2024-07-06,Burger,30
+2024-07-06,Caesar Salad,24
+2024-07-07,Pizza Margherita,28
+2024-07-07,Chicken Sandwich,32
+2024-07-07,Burger,22
+2024-07-07,Caesar Salad,12
+2024-07-08,Pizza Margherita,40
+2024-07-08,Chicken Sandwich,36
+2024-07-08,Burger,19
+2024-07-08,Caesar Salad,14
+2024-07-09,Pizza Margherita,36
+2024-07-09,Chicken Sandwich,33
+2024-07-09,Burger,31
+2024-07-09,Caesar Salad,19
+2024-07-10,Pizza Margherita,28
+2024-07-10,Chicken Sandwich,29
+2024-07-10,Burger,28
+2024-07-10,Caesar Salad,15
+2024-07-11,Pizza Margherita,29
+2024-07-11,Chicken Sandwich,24
+2024-07-11,Burger,15
+2024-07-11,Caesar Salad,17
+2024-07-12,Pizza Margherita,48
+2024-07-12,Chicken Sandwich,40
+2024-07-12,Burger,30
+2024-07-12,Caesar Salad,18
+2024-07-13,Pizza Margherita,39
+2024-07-13,Chicken Sandwich,42
+2024-07-13,Burger,26
+2024-07-13,Caesar Salad,20
+2024-07-14,Pizza Margherita,34
+2024-07-14,Chicken Sandwich,34
+2024-07-14,Burger,19
+2024-07-14,Caesar Salad,17
+2024-07-15,Pizza Margherita,0
+2024-07-15,Chicken Sandwich,0
+2024-07-15,Burger,0
+2024-07-15,Caesar Salad,0
+2024-07-16,Pizza Margherita,28
+2024-07-16,Chicken Sandwich,27
+2024-07-16,Burger,23
+2024-07-16,Caesar Salad,18
+2024-07-17,Pizza Margherita,27
+2024-07-17,Chicken Sandwich,30
+2024-07-17,Burger,20
+2024-07-17,Caesar Salad,19
+2024-07-18,Pizza Margherita,35
+2024-07-18,Chicken Sandwich,32
+2024-07-18,Burger,22
+2024-07-18,Caesar Salad,16
+2024-07-19,Pizza Margherita,62
+2024-07-19,Chicken Sandwich,40
+2024-07-19,Burger,35
+2024-07-19,Caesar Salad,20
+2024-07-20,Pizza Margherita,68
+2024-07-20,Chicken Sandwich,36
+2024-07-20,Burger,39
+2024-07-20,Caesar Salad,22
+2024-07-21,Pizza Margherita,33
+2024-07-21,Chicken Sandwich,37
+2024-07-21,Burger,28
+2024-07-21,Caesar Salad,15
+2024-07-22,Pizza Margherita,37
+2024-07-22,Chicken Sandwich,34
+2024-07-22,Burger,19
+2024-07-22,Caesar Salad,17
+2024-07-23,Pizza Margherita,33
+2024-07-23,Chicken Sandwich,27
+2024-07-23,Burger,23
+2024-07-23,Caesar Salad,11
+2024-07-24,Pizza Margherita,44
+2024-07-24,Chicken Sandwich,23
+2024-07-24,Burger,25
+2024-07-24,Caesar Salad,17
+2024-07-25,Pizza Margherita,41
+2024-07-25,Chicken Sandwich,26
+2024-07-25,Burger,22
+2024-07-25,Caesar Salad,21
+2024-07-26,Pizza Margherita,58
+2024-07-26,Chicken Sandwich,39
+2024-07-26,Burger,41
+2024-07-26,Caesar Salad,22
+2024-07-27,Pizza Margherita,55
+2024-07-27,Chicken Sandwich,45
+2024-07-27,Burger,43
+2024-07-27,Caesar Salad,28
+2024-07-28,Pizza Margherita,38
+2024-07-28,Chicken Sandwich,28
+2024-07-28,Burger,26
+2024-07-28,Caesar Salad,13
+2024-07-29,Pizza Margherita,35
+2024-07-29,Chicken Sandwich,36
+2024-07-29,Burger,26
+2024-07-29,Caesar Salad,15
+2024-07-30,Pizza Margherita,31
+2024-07-30,Chicken Sandwich,35
+2024-07-30,Burger,20
+2024-07-30,Caesar Salad,11
+2024-07-31,Pizza Margherita,35
+2024-07-31,Chicken Sandwich,31
+2024-07-31,Burger,23
+2024-07-31,Caesar Salad,15
+2024-08-01,Pizza Margherita,39
+2024-08-01,Chicken Sandwich,33
+2024-08-01,Burger,22
+2024-08-01,Caesar Salad,19
+2024-08-02,Pizza Margherita,47
+2024-08-02,Chicken Sandwich,36
+2024-08-02,Burger,29
+2024-08-02,Caesar Salad,23
+2024-08-03,Pizza Margherita,55
+2024-08-03,Chicken Sandwich,34
+2024-08-03,Burger,32
+2024-08-03,Caesar Salad,30
+2024-08-04,Pizza Margherita,47
+2024-08-04,Chicken Sandwich,42
+2024-08-04,Burger,33
+2024-08-04,Caesar Salad,16
+2024-08-05,Pizza Margherita,0
+2024-08-05,Chicken Sandwich,0
+2024-08-05,Burger,0
+2024-08-05,Caesar Salad,0
+2024-08-06,Pizza Margherita,39
+2024-08-06,Chicken Sandwich,34
+2024-08-06,Burger,29
+2024-08-06,Caesar Salad,27
+2024-08-07,Pizza Margherita,28
+2024-08-07,Chicken Sandwich,36
+2024-08-07,Burger,36
+2024-08-07,Caesar Salad,23
+2024-08-08,Pizza Margherita,37
+2024-08-08,Chicken Sandwich,34
+2024-08-08,Burger,33
+2024-08-08,Caesar Salad,13
+2024-08-09,Pizza Margherita,43
+2024-08-09,Chicken Sandwich,46
+2024-08-09,Burger,25
+2024-08-09,Caesar Salad,30
+2024-08-10,Pizza Margherita,51
+2024-08-10,Chicken Sandwich,44
+2024-08-10,Burger,46
+2024-08-10,Caesar Salad,28
+2024-08-11,Pizza Margherita,30
+2024-08-11,Chicken Sandwich,12
+2024-08-11,Burger,22
+2024-08-11,Caesar Salad,24
+2024-08-12,Pizza Margherita,34
+2024-08-12,Chicken Sandwich,27
+2024-08-12,Burger,20
+2024-08-12,Caesar Salad,23
+2024-08-13,Pizza Margherita,52
+2024-08-13,Chicken Sandwich,24
+2024-08-13,Burger,17
+2024-08-13,Caesar Salad,24
+2024-08-14,Pizza Margherita,29
+2024-08-14,Chicken Sandwich,35
+2024-08-14,Burger,16
+2024-08-14,Caesar Salad,18
+2024-08-15,Pizza Margherita,29
+2024-08-15,Chicken Sandwich,23
+2024-08-15,Burger,23
+2024-08-15,Caesar Salad,17
+2024-08-16,Pizza Margherita,46
+2024-08-16,Chicken Sandwich,38
+2024-08-16,Burger,31
+2024-08-16,Caesar Salad,25
+2024-08-17,Pizza Margherita,58
+2024-08-17,Chicken Sandwich,38
+2024-08-17,Burger,31
+2024-08-17,Caesar Salad,38
+2024-08-18,Pizza Margherita,38
+2024-08-18,Chicken Sandwich,31
+2024-08-18,Burger,26
+2024-08-18,Caesar Salad,15
+2024-08-19,Pizza Margherita,33
+2024-08-19,Chicken Sandwich,27
+2024-08-19,Burger,26
+2024-08-19,Caesar Salad,26
+2024-08-20,Pizza Margherita,27
+2024-08-20,Chicken Sandwich,40
+2024-08-20,Burger,26
+2024-08-20,Caesar Salad,14
+2024-08-21,Pizza Margherita,29
+2024-08-21,Chicken Sandwich,30
+2024-08-21,Burger,21
+2024-08-21,Caesar Salad,23
+2024-08-22,Pizza Margherita,40
+2024-08-22,Chicken Sandwich,27
+2024-08-22,Burger,25
+2024-08-22,Caesar Salad,18
+2024-08-23,Pizza Margherita,49
+2024-08-23,Chicken Sandwich,44
+2024-08-23,Burger,35
+2024-08-23,Caesar Salad,34
+2024-08-24,Pizza Margherita,0
+2024-08-24,Chicken Sandwich,0
+2024-08-24,Burger,0
+2024-08-24,Caesar Salad,0
+2024-08-25,Pizza Margherita,37
+2024-08-25,Chicken Sandwich,30
+2024-08-25,Burger,25
+2024-08-25,Caesar Salad,17
+2024-08-26,Pizza Margherita,32
+2024-08-26,Chicken Sandwich,32
+2024-08-26,Burger,23
+2024-08-26,Caesar Salad,19
+2024-08-27,Pizza Margherita,35
+2024-08-27,Chicken Sandwich,32
+2024-08-27,Burger,14
+2024-08-27,Caesar Salad,17
+2024-08-28,Pizza Margherita,35
+2024-08-28,Chicken Sandwich,22
+2024-08-28,Burger,20
+2024-08-28,Caesar Salad,17
+2024-08-29,Pizza Margherita,41
+2024-08-29,Chicken Sandwich,32
+2024-08-29,Burger,25
+2024-08-29,Caesar Salad,17
+2024-08-30,Pizza Margherita,60
+2024-08-30,Chicken Sandwich,44
+2024-08-30,Burger,30
+2024-08-30,Caesar Salad,33
+2024-08-31,Pizza Margherita,41
+2024-08-31,Chicken Sandwich,40
+2024-08-31,Burger,34
+2024-08-31,Caesar Salad,20
+2024-09-01,Pizza Margherita,26
+2024-09-01,Chicken Sandwich,27
+2024-09-01,Burger,21
+2024-09-01,Caesar Salad,13
+2024-09-02,Pizza Margherita,30
+2024-09-02,Chicken Sandwich,19
+2024-09-02,Burger,24
+2024-09-02,Caesar Salad,20
+2024-09-03,Pizza Margherita,24
+2024-09-03,Chicken Sandwich,24
+2024-09-03,Burger,12
+2024-09-03,Caesar Salad,15
+2024-09-04,Pizza Margherita,30
+2024-09-04,Chicken Sandwich,29
+2024-09-04,Burger,25
+2024-09-04,Caesar Salad,19
+2024-09-05,Pizza Margherita,31
+2024-09-05,Chicken Sandwich,15
+2024-09-05,Burger,24
+2024-09-05,Caesar Salad,9
+2024-09-06,Pizza Margherita,32
+2024-09-06,Chicken Sandwich,40
+2024-09-06,Burger,30
+2024-09-06,Caesar Salad,28
+2024-09-07,Pizza Margherita,45
+2024-09-07,Chicken Sandwich,37
+2024-09-07,Burger,37
+2024-09-07,Caesar Salad,24
+2024-09-08,Pizza Margherita,33
+2024-09-08,Chicken Sandwich,29
+2024-09-08,Burger,12
+2024-09-08,Caesar Salad,10
+2024-09-09,Pizza Margherita,25
+2024-09-09,Chicken Sandwich,24
+2024-09-09,Burger,18
+2024-09-09,Caesar Salad,13
+2024-09-10,Pizza Margherita,25
+2024-09-10,Chicken Sandwich,20
+2024-09-10,Burger,23
+2024-09-10,Caesar Salad,18
+2024-09-11,Pizza Margherita,29
+2024-09-11,Chicken Sandwich,21
+2024-09-11,Burger,25
+2024-09-11,Caesar Salad,19
+2024-09-12,Pizza Margherita,23
+2024-09-12,Chicken Sandwich,29
+2024-09-12,Burger,20
+2024-09-12,Caesar Salad,17
+2024-09-13,Pizza Margherita,40
+2024-09-13,Chicken Sandwich,40
+2024-09-13,Burger,28
+2024-09-13,Caesar Salad,21
+2024-09-14,Pizza Margherita,45
+2024-09-14,Chicken Sandwich,35
+2024-09-14,Burger,25
+2024-09-14,Caesar Salad,19
+2024-09-15,Pizza Margherita,33
+2024-09-15,Chicken Sandwich,28
+2024-09-15,Burger,18
+2024-09-15,Caesar Salad,17
+2024-09-16,Pizza Margherita,30
+2024-09-16,Chicken Sandwich,28
+2024-09-16,Burger,18
+2024-09-16,Caesar Salad,16
+2024-09-17,Pizza Margherita,37
+2024-09-17,Chicken Sandwich,25
+2024-09-17,Burger,18
+2024-09-17,Caesar Salad,12
+2024-09-18,Pizza Margherita,29
+2024-09-18,Chicken Sandwich,35
+2024-09-18,Burger,13
+2024-09-18,Caesar Salad,16
+2024-09-19,Pizza Margherita,31
+2024-09-19,Chicken Sandwich,26
+2024-09-19,Burger,22
+2024-09-19,Caesar Salad,17
+2024-09-20,Pizza Margherita,49
+2024-09-20,Chicken Sandwich,27
+2024-09-20,Burger,30
+2024-09-20,Caesar Salad,15
+2024-09-21,Pizza Margherita,35
+2024-09-21,Chicken Sandwich,37
+2024-09-21,Burger,31
+2024-09-21,Caesar Salad,18
+2024-09-22,Pizza Margherita,30
+2024-09-22,Chicken Sandwich,21
+2024-09-22,Burger,25
+2024-09-22,Caesar Salad,15
+2024-09-23,Pizza Margherita,0
+2024-09-23,Chicken Sandwich,0
+2024-09-23,Burger,0
+2024-09-23,Caesar Salad,0
+2024-09-24,Pizza Margherita,30
+2024-09-24,Chicken Sandwich,31
+2024-09-24,Burger,19
+2024-09-24,Caesar Salad,17
+2024-09-25,Pizza Margherita,26
+2024-09-25,Chicken Sandwich,38
+2024-09-25,Burger,20
+2024-09-25,Caesar Salad,12
+2024-09-26,Pizza Margherita,35
+2024-09-26,Chicken Sandwich,32
+2024-09-26,Burger,19
+2024-09-26,Caesar Salad,18
+2024-09-27,Pizza Margherita,0
+2024-09-27,Chicken Sandwich,0
+2024-09-27,Burger,0
+2024-09-27,Caesar Salad,0
+2024-09-28,Pizza Margherita,43
+2024-09-28,Chicken Sandwich,41
+2024-09-28,Burger,35
+2024-09-28,Caesar Salad,18
+2024-09-29,Pizza Margherita,26
+2024-09-29,Chicken Sandwich,21
+2024-09-29,Burger,22
+2024-09-29,Caesar Salad,17
+2024-09-30,Pizza Margherita,19
+2024-09-30,Chicken Sandwich,23
+2024-09-30,Burger,18
+2024-09-30,Caesar Salad,14
+2024-10-01,Pizza Margherita,29
+2024-10-01,Chicken Sandwich,26
+2024-10-01,Burger,22
+2024-10-01,Caesar Salad,15
+2024-10-02,Pizza Margherita,33
+2024-10-02,Chicken Sandwich,29
+2024-10-02,Burger,22
+2024-10-02,Caesar Salad,14
+2024-10-03,Pizza Margherita,46
+2024-10-03,Chicken Sandwich,29
+2024-10-03,Burger,15
+2024-10-03,Caesar Salad,15
+2024-10-04,Pizza Margherita,49
+2024-10-04,Chicken Sandwich,38
+2024-10-04,Burger,15
+2024-10-04,Caesar Salad,31
+2024-10-05,Pizza Margherita,32
+2024-10-05,Chicken Sandwich,36
+2024-10-05,Burger,29
+2024-10-05,Caesar Salad,20
+2024-10-06,Pizza Margherita,31
+2024-10-06,Chicken Sandwich,15
+2024-10-06,Burger,22
+2024-10-06,Caesar Salad,18
+2024-10-07,Pizza Margherita,22
+2024-10-07,Chicken Sandwich,19
+2024-10-07,Burger,15
+2024-10-07,Caesar Salad,22
+2024-10-08,Pizza Margherita,28
+2024-10-08,Chicken Sandwich,18
+2024-10-08,Burger,27
+2024-10-08,Caesar Salad,11
+2024-10-09,Pizza Margherita,29
+2024-10-09,Chicken Sandwich,25
+2024-10-09,Burger,18
+2024-10-09,Caesar Salad,12
+2024-10-10,Pizza Margherita,29
+2024-10-10,Chicken Sandwich,31
+2024-10-10,Burger,6
+2024-10-10,Caesar Salad,10
+2024-10-11,Pizza Margherita,45
+2024-10-11,Chicken Sandwich,28
+2024-10-11,Burger,25
+2024-10-11,Caesar Salad,21
+2024-10-12,Pizza Margherita,38
+2024-10-12,Chicken Sandwich,45
+2024-10-12,Burger,33
+2024-10-12,Caesar Salad,23
+2024-10-13,Pizza Margherita,0
+2024-10-13,Chicken Sandwich,0
+2024-10-13,Burger,0
+2024-10-13,Caesar Salad,0
+2024-10-14,Pizza Margherita,20
+2024-10-14,Chicken Sandwich,20
+2024-10-14,Burger,21
+2024-10-14,Caesar Salad,9
+2024-10-15,Pizza Margherita,30
+2024-10-15,Chicken Sandwich,23
+2024-10-15,Burger,11
+2024-10-15,Caesar Salad,16
+2024-10-16,Pizza Margherita,19
+2024-10-16,Chicken Sandwich,27
+2024-10-16,Burger,21
+2024-10-16,Caesar Salad,13
+2024-10-17,Pizza Margherita,21
+2024-10-17,Chicken Sandwich,24
+2024-10-17,Burger,18
+2024-10-17,Caesar Salad,20
+2024-10-18,Pizza Margherita,28
+2024-10-18,Chicken Sandwich,38
+2024-10-18,Burger,18
+2024-10-18,Caesar Salad,17
+2024-10-19,Pizza Margherita,43
+2024-10-19,Chicken Sandwich,31
+2024-10-19,Burger,32
+2024-10-19,Caesar Salad,19
+2024-10-20,Pizza Margherita,43
+2024-10-20,Chicken Sandwich,20
+2024-10-20,Burger,15
+2024-10-20,Caesar Salad,9
+2024-10-21,Pizza Margherita,32
+2024-10-21,Chicken Sandwich,29
+2024-10-21,Burger,24
+2024-10-21,Caesar Salad,13
+2024-10-22,Pizza Margherita,29
+2024-10-22,Chicken Sandwich,24
+2024-10-22,Burger,23
+2024-10-22,Caesar Salad,13
+2024-10-23,Pizza Margherita,38
+2024-10-23,Chicken Sandwich,26
+2024-10-23,Burger,18
+2024-10-23,Caesar Salad,14
+2024-10-24,Pizza Margherita,33
+2024-10-24,Chicken Sandwich,23
+2024-10-24,Burger,25
+2024-10-24,Caesar Salad,11
+2024-10-25,Pizza Margherita,46
+2024-10-25,Chicken Sandwich,37
+2024-10-25,Burger,34
+2024-10-25,Caesar Salad,16
+2024-10-26,Pizza Margherita,48
+2024-10-26,Chicken Sandwich,35
+2024-10-26,Burger,29
+2024-10-26,Caesar Salad,15
+2024-10-27,Pizza Margherita,28
+2024-10-27,Chicken Sandwich,23
+2024-10-27,Burger,16
+2024-10-27,Caesar Salad,15
+2024-10-28,Pizza Margherita,24
+2024-10-28,Chicken Sandwich,24
+2024-10-28,Burger,21
+2024-10-28,Caesar Salad,15
+2024-10-29,Pizza Margherita,30
+2024-10-29,Chicken Sandwich,24
+2024-10-29,Burger,27
+2024-10-29,Caesar Salad,19
+2024-10-30,Pizza Margherita,0
+2024-10-30,Chicken Sandwich,0
+2024-10-30,Burger,0
+2024-10-30,Caesar Salad,0
+2024-10-31,Pizza Margherita,27
+2024-10-31,Chicken Sandwich,24
+2024-10-31,Burger,25
+2024-10-31,Caesar Salad,17
+2024-11-01,Pizza Margherita,35
+2024-11-01,Chicken Sandwich,37
+2024-11-01,Burger,34
+2024-11-01,Caesar Salad,20
+2024-11-02,Pizza Margherita,45
+2024-11-02,Chicken Sandwich,35
+2024-11-02,Burger,35
+2024-11-02,Caesar Salad,20
+2024-11-03,Pizza Margherita,15
+2024-11-03,Chicken Sandwich,24
+2024-11-03,Burger,21
+2024-11-03,Caesar Salad,11
+2024-11-04,Pizza Margherita,34
+2024-11-04,Chicken Sandwich,29
+2024-11-04,Burger,18
+2024-11-04,Caesar Salad,19
+2024-11-05,Pizza Margherita,27
+2024-11-05,Chicken Sandwich,30
+2024-11-05,Burger,16
+2024-11-05,Caesar Salad,15
+2024-11-06,Pizza Margherita,34
+2024-11-06,Chicken Sandwich,23
+2024-11-06,Burger,15
+2024-11-06,Caesar Salad,24
+2024-11-07,Pizza Margherita,33
+2024-11-07,Chicken Sandwich,25
+2024-11-07,Burger,20
+2024-11-07,Caesar Salad,12
+2024-11-08,Pizza Margherita,50
+2024-11-08,Chicken Sandwich,37
+2024-11-08,Burger,34
+2024-11-08,Caesar Salad,20
+2024-11-09,Pizza Margherita,41
+2024-11-09,Chicken Sandwich,35
+2024-11-09,Burger,32
+2024-11-09,Caesar Salad,20
+2024-11-10,Pizza Margherita,23
+2024-11-10,Chicken Sandwich,32
+2024-11-10,Burger,17
+2024-11-10,Caesar Salad,15
+2024-11-11,Pizza Margherita,35
+2024-11-11,Chicken Sandwich,21
+2024-11-11,Burger,18
+2024-11-11,Caesar Salad,15
+2024-11-12,Pizza Margherita,0
+2024-11-12,Chicken Sandwich,0
+2024-11-12,Burger,0
+2024-11-12,Caesar Salad,0
+2024-11-13,Pizza Margherita,27
+2024-11-13,Chicken Sandwich,25
+2024-11-13,Burger,26
+2024-11-13,Caesar Salad,14
+2024-11-14,Pizza Margherita,31
+2024-11-14,Chicken Sandwich,32
+2024-11-14,Burger,17
+2024-11-14,Caesar Salad,12
+2024-11-15,Pizza Margherita,46
+2024-11-15,Chicken Sandwich,38
+2024-11-15,Burger,24
+2024-11-15,Caesar Salad,15
+2024-11-16,Pizza Margherita,38
+2024-11-16,Chicken Sandwich,37
+2024-11-16,Burger,33
+2024-11-16,Caesar Salad,22
+2024-11-17,Pizza Margherita,24
+2024-11-17,Chicken Sandwich,20
+2024-11-17,Burger,32
+2024-11-17,Caesar Salad,17
+2024-11-18,Pizza Margherita,29
+2024-11-18,Chicken Sandwich,25
+2024-11-18,Burger,19
+2024-11-18,Caesar Salad,20
+2024-11-19,Pizza Margherita,27
+2024-11-19,Chicken Sandwich,28
+2024-11-19,Burger,12
+2024-11-19,Caesar Salad,9
+2024-11-20,Pizza Margherita,29
+2024-11-20,Chicken Sandwich,24
+2024-11-20,Burger,21
+2024-11-20,Caesar Salad,15
+2024-11-21,Pizza Margherita,37
+2024-11-21,Chicken Sandwich,25
+2024-11-21,Burger,16
+2024-11-21,Caesar Salad,17
+2024-11-22,Pizza Margherita,46
+2024-11-22,Chicken Sandwich,31
+2024-11-22,Burger,28
+2024-11-22,Caesar Salad,23
+2024-11-23,Pizza Margherita,41
+2024-11-23,Chicken Sandwich,35
+2024-11-23,Burger,23
+2024-11-23,Caesar Salad,24
+2024-11-24,Pizza Margherita,31
+2024-11-24,Chicken Sandwich,21
+2024-11-24,Burger,19
+2024-11-24,Caesar Salad,9
+2024-11-25,Pizza Margherita,35
+2024-11-25,Chicken Sandwich,21
+2024-11-25,Burger,24
+2024-11-25,Caesar Salad,20
+2024-11-26,Pizza Margherita,26
+2024-11-26,Chicken Sandwich,21
+2024-11-26,Burger,25
+2024-11-26,Caesar Salad,20
+2024-11-27,Pizza Margherita,0
+2024-11-27,Chicken Sandwich,0
+2024-11-27,Burger,0
+2024-11-27,Caesar Salad,0
+2024-11-28,Pizza Margherita,29
+2024-11-28,Chicken Sandwich,23
+2024-11-28,Burger,27
+2024-11-28,Caesar Salad,16
+2024-11-29,Pizza Margherita,48
+2024-11-29,Chicken Sandwich,47
+2024-11-29,Burger,29
+2024-11-29,Caesar Salad,25
+2024-11-30,Pizza Margherita,35
+2024-11-30,Chicken Sandwich,28
+2024-11-30,Burger,32
+2024-11-30,Caesar Salad,17
+2024-12-01,Pizza Margherita,17
+2024-12-01,Chicken Sandwich,22
+2024-12-01,Burger,20
+2024-12-01,Caesar Salad,17
+2024-12-02,Pizza Margherita,29
+2024-12-02,Chicken Sandwich,18
+2024-12-02,Burger,20
+2024-12-02,Caesar Salad,21
+2024-12-03,Pizza Margherita,40
+2024-12-03,Chicken Sandwich,21
+2024-12-03,Burger,23
+2024-12-03,Caesar Salad,20
+2024-12-04,Pizza Margherita,36
+2024-12-04,Chicken Sandwich,19
+2024-12-04,Burger,25
+2024-12-04,Caesar Salad,20
+2024-12-05,Pizza Margherita,29
+2024-12-05,Chicken Sandwich,24
+2024-12-05,Burger,21
+2024-12-05,Caesar Salad,16
+2024-12-06,Pizza Margherita,46
+2024-12-06,Chicken Sandwich,38
+2024-12-06,Burger,27
+2024-12-06,Caesar Salad,20
+2024-12-07,Pizza Margherita,49
+2024-12-07,Chicken Sandwich,40
+2024-12-07,Burger,28
+2024-12-07,Caesar Salad,27
+2024-12-08,Pizza Margherita,26
+2024-12-08,Chicken Sandwich,24
+2024-12-08,Burger,16
+2024-12-08,Caesar Salad,9
+2024-12-09,Pizza Margherita,26
+2024-12-09,Chicken Sandwich,29
+2024-12-09,Burger,26
+2024-12-09,Caesar Salad,9
+2024-12-10,Pizza Margherita,34
+2024-12-10,Chicken Sandwich,25
+2024-12-10,Burger,19
+2024-12-10,Caesar Salad,12
+2024-12-11,Pizza Margherita,35
+2024-12-11,Chicken Sandwich,27
+2024-12-11,Burger,16
+2024-12-11,Caesar Salad,17
+2024-12-12,Pizza Margherita,38
+2024-12-12,Chicken Sandwich,30
+2024-12-12,Burger,14
+2024-12-12,Caesar Salad,19
+2024-12-13,Pizza Margherita,36
+2024-12-13,Chicken Sandwich,37
+2024-12-13,Burger,18
+2024-12-13,Caesar Salad,29
+2024-12-14,Pizza Margherita,45
+2024-12-14,Chicken Sandwich,35
+2024-12-14,Burger,33
+2024-12-14,Caesar Salad,19
+2024-12-15,Pizza Margherita,0
+2024-12-15,Chicken Sandwich,0
+2024-12-15,Burger,0
+2024-12-15,Caesar Salad,0
+2024-12-16,Pizza Margherita,23
+2024-12-16,Chicken Sandwich,21
+2024-12-16,Burger,24
+2024-12-16,Caesar Salad,11
+2024-12-17,Pizza Margherita,28
+2024-12-17,Chicken Sandwich,25
+2024-12-17,Burger,22
+2024-12-17,Caesar Salad,14
+2024-12-18,Pizza Margherita,31
+2024-12-18,Chicken Sandwich,20
+2024-12-18,Burger,21
+2024-12-18,Caesar Salad,14
+2024-12-19,Pizza Margherita,29
+2024-12-19,Chicken Sandwich,23
+2024-12-19,Burger,23
+2024-12-19,Caesar Salad,12
+2024-12-20,Pizza Margherita,41
+2024-12-20,Chicken Sandwich,28
+2024-12-20,Burger,30
+2024-12-20,Caesar Salad,18
+2024-12-21,Pizza Margherita,44
+2024-12-21,Chicken Sandwich,39
+2024-12-21,Burger,30
+2024-12-21,Caesar Salad,19
+2024-12-22,Pizza Margherita,29
+2024-12-22,Chicken Sandwich,24
+2024-12-22,Burger,24
+2024-12-22,Caesar Salad,19
+2024-12-23,Pizza Margherita,35
+2024-12-23,Chicken Sandwich,26
+2024-12-23,Burger,11
+2024-12-23,Caesar Salad,9
+2024-12-24,Pizza Margherita,32
+2024-12-24,Chicken Sandwich,24
+2024-12-24,Burger,19
+2024-12-24,Caesar Salad,14
+2024-12-25,Pizza Margherita,0
+2024-12-25,Chicken Sandwich,0
+2024-12-25,Burger,0
+2024-12-25,Caesar Salad,0
+2024-12-26,Pizza Margherita,39
+2024-12-26,Chicken Sandwich,22
+2024-12-26,Burger,25
+2024-12-26,Caesar Salad,19
+2024-12-27,Pizza Margherita,39
+2024-12-27,Chicken Sandwich,35
+2024-12-27,Burger,26
+2024-12-27,Caesar Salad,19
+2024-12-28,Pizza Margherita,40
+2024-12-28,Chicken Sandwich,37
+2024-12-28,Burger,30
+2024-12-28,Caesar Salad,20
+2024-12-29,Pizza Margherita,34
+2024-12-29,Chicken Sandwich,23
+2024-12-29,Burger,23
+2024-12-29,Caesar Salad,16
+2024-12-30,Pizza Margherita,35
+2024-12-30,Chicken Sandwich,26
+2024-12-30,Burger,19
+2024-12-30,Caesar Salad,15
+2024-12-31,Pizza Margherita,30
+2024-12-31,Chicken Sandwich,24
+2024-12-31,Burger,15
+2024-12-31,Caesar Salad,13
